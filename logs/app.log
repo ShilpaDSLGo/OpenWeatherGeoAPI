@@ -1,0 +1,952 @@
+2024-09-11 12:47:17 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 12:47:17 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 12:47:17 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 12:52:00 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 12:52:00 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 12:52:00 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 12:57:15 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 12:57:15 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 12:57:15 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 13:39:22 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 13:39:22 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 13:39:22 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 13:47:13 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 13:47:13 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 13:47:13 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 13:50:28 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 13:50:28 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 13:50:28 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 13:51:55 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 13:51:57 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 13:51:57 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 13:53:35 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 13:53:35 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 13:53:35 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:23:50 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:23:55 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:23:56 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:24:49 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:24:49 INFO  api.StepDefination.GeoStepDefination - City name specified: New York
+2024-09-11 15:24:49 INFO  api.StepDefination.GeoStepDefination - Making request for location: New York
+2024-09-11 15:24:51 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"New York County","local_names":{"ko":"뉴욕","pt":"Nova Iorque","ru":"Нью-Йорк","pl":"Nowy Jork","cs":"New York","gl":"Nova York","el":"Νέα Υόρκη","hi":"न्यूयॊर्क्","he":"ניו יורק","es":"Nueva York","vi":"New York","te":"న్యూయొర్క్","ja":"ニューヨーク","oc":"Nòva York","uk":"Нью-Йорк","ar":"نيويورك","eo":"Novjorko","it":"New York","en":"New York","cy":"Efrog Newydd","de":"New York","be":"Нью-Ёрк","ca":"Nova York","fr":"New York","fa":"نیویورک","is":"Nýja Jórvík","zh":"纽约/紐約","kn":"ನ್ಯೂಯೊರ್ಕ್"},"lat":40.7127281,"lon":-74.0060152,"country":"US","state":"New York"}]
+2024-09-11 15:24:52 INFO  api.StepDefination.GeoStepDefination - Received location details for New York: Latitude - 40.712727, Longitude - -74.00601
+2024-09-11 15:24:52 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:24:52 INFO  api.StepDefination.GeoStepDefination - City name specified: Los Angeles
+2024-09-11 15:24:52 INFO  api.StepDefination.GeoStepDefination - Making request for location: Los Angeles
+2024-09-11 15:24:52 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Los Angeles","local_names":{"el":"Λος Άντζελες","ar":"لوس أنجلس","fa":"لوس آنجلس","sr":"Лос Анђелес","he":"לוס אנג'לס","it":"Los Angeles","kn":"ಲೊಸ್ ಆಂಜೆಲೆಸ್","es":"Los Ángeles","zh":"洛杉矶","uk":"Лос-Анджелес","bn":"লোস আংজেলেস","th":"ลอสแอนเจลิส","hi":"लॉस एंजिलस","ja":"ロサンゼルス","tt":"Лос-Анджелес","ba":"Лос-Анджелес","de":"Los Angeles","mi":"Ngā Ānahera","eo":"Los-Anĝeleso","ko":"로스앤젤레스","lv":"Losandželosa","en":"Los Angeles","gl":"Os Ánxeles","oc":"Los Angeles","pt":"Los Angeles","fr":"Los Angeles","ru":"Лос-Анджелес","ka":"ლოს-ანჯელესი","ta":"லொஸ் ஆஞ்ஜெலெஸ்","pl":"Los Angeles","be":"Лос-Анджэлас"},"lat":34.0536909,"lon":-118.242766,"country":"US","state":"California"}]
+2024-09-11 15:24:52 INFO  api.StepDefination.GeoStepDefination - Received location details for Los Angeles: Latitude - 34.05369, Longitude - -118.24277
+2024-09-11 15:24:52 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:24:52 INFO  api.StepDefination.GeoStepDefination - City name specified: San Francisco
+2024-09-11 15:24:52 INFO  api.StepDefination.GeoStepDefination - Making request for location: San Francisco
+2024-09-11 15:24:52 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"San Francisco","local_names":{"ar":"سان فرانسيسكو","hr":"San Francisco","yi":"סאן פראנציסקא","so":"San Fransisko","bs":"San Francisco","pl":"San Francisco","ha":"San Francisco","bo":"སན་ཧྥུ་རན་སིས་ཁོ","cv":"Сан-Франциско","eu":"San Frantzisko","li":"San Francisco","eo":"San-Francisko","be":"Сан-Францыска","kn":"ಸಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೊ","fa":"سان فرانسیسکو","tt":"Сан-Франциско","ia":"San Francisco","gv":"San Francisco","yo":"San Francisco","ce":"Сан-Франциско","de":"San Francisco","lt":"San Fransiskas","el":"Σαν Φρανσίσκο","sk":"San Francisco","uk":"Сан-Франциско","mg":"San Francisco","it":"San Francisco","an":"San Francisco","sv":"San Francisco","ga":"San Francisco","no":"San Francisco","ty":"San Francisco","fi":"San Francisco","ca":"San Francisco","nl":"San Francisco","sc":"San Francisco","mk":"Сан Франциско","pa":"ਸਾਨ ਫ਼ਰਾਂਸਿਸਕੋ","da":"San Francisco","ht":"San Francisco","ru":"Сан-Франциско","fj":"San Francisco","bm":"San Francisco","sq":"San Francisco","ta":"சான் பிரான்சிஸ்கோ","ky":"Сан-Франциско","lb":"San Francisco","sh":"San Francisco","tr":"San Francisco","ka":"სან-ფრანცისკო","os":"Сан-Франциско","sr":"Сан Франциско","am":"ሳን ፍራንሲስኰ","sl":"San Francisco","ku":"San Francisco","na":"San Francisco","mi":"Hana Paraniko","hu":"San Francisco","ne":"सान फ्रान्सिस्को","co":"San Francisco","az":"San-Fransisko","pt":"São Francisco","kw":"San Francisco","kk":"Сан-Франциско","ki":"San Francisco","en":"San Francisco","th":"ซานฟรานซิสโก","ko":"샌프란시스코","et":"San Francisco","bn":"সান ফ্রান্সিস্কো","bg":"Сан Франциско","ug":"San Fransisko","zh":"旧金山;舊金山;三藩市","nn":"San Francisco","te":"శాన్ ఫ్రాన్సిస్కో","gl":"San Francisco","fo":"San Francisco","tw":"San Francisco","br":"San Francisco","io":"San Francisco","ie":"San Francisco","cy":"San Francisco","mr":"सॅन फ्रान्सिस्को","id":"San Francisco","mn":"Сан-Франциско","uz":"San Fransisko","ln":"San Francisco","vo":"San Francisco","ps":"سان فرانسسکو","ml":"സാൻ ഫ്രാൻസിസ്കോ","lv":"Sanfrancisko","la":"Franciscopolis","af":"San Francisco","si":"සැන් ෆ්‍රැන්සිස්කෝ","hy":"Սան Ֆրանցիսկո","my":"ဆန်ဖရန်စစ္စကိုမြို့","ba":"Сан-Франциско","ro":"San Francisco","ja":"サンフランシスコ","is":"San Francisco","es":"San Francisco","fr":"San Francisco","fy":"San Francisco","jv":"San Francisco","gd":"San Francisco","oc":"San Francisco","hi":"सैन फ़्रांसिस्को","sw":"San Francisco","nv":"Naʼníʼá Hóneezí","ms":"San Francisco","qu":"San Francisco","ur":"سان فرانسسکو","cs":"San Francisco","vi":"Cựu Kim Sơn","tl":"San Francisco","he":"סן פרנסיסקו"},"lat":37.7790262,"lon":-122.419906,"country":"US","state":"California"}]
+2024-09-11 15:24:52 INFO  api.StepDefination.GeoStepDefination - Received location details for San Francisco: Latitude - 37.779026, Longitude - -122.41991
+2024-09-11 15:25:50 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:25:50 INFO  api.StepDefination.GeoStepDefination - City name specified: New York
+2024-09-11 15:25:50 INFO  api.StepDefination.GeoStepDefination - Making request for location: New York
+2024-09-11 15:25:52 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"New York County","local_names":{"ko":"뉴욕","pt":"Nova Iorque","ru":"Нью-Йорк","pl":"Nowy Jork","cs":"New York","gl":"Nova York","el":"Νέα Υόρκη","hi":"न्यूयॊर्क्","he":"ניו יורק","es":"Nueva York","vi":"New York","te":"న్యూయొర్క్","ja":"ニューヨーク","oc":"Nòva York","uk":"Нью-Йорк","ar":"نيويورك","eo":"Novjorko","it":"New York","en":"New York","cy":"Efrog Newydd","de":"New York","be":"Нью-Ёрк","ca":"Nova York","fr":"New York","fa":"نیویورک","is":"Nýja Jórvík","zh":"纽约/紐約","kn":"ನ್ಯೂಯೊರ್ಕ್"},"lat":40.7127281,"lon":-74.0060152,"country":"US","state":"New York"}]
+2024-09-11 15:25:52 INFO  api.StepDefination.GeoStepDefination - Received location details for New York: Latitude - 40.712727, Longitude - -74.00601
+2024-09-11 15:25:52 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:25:52 INFO  api.StepDefination.GeoStepDefination - City name specified: Los Angeles
+2024-09-11 15:25:52 INFO  api.StepDefination.GeoStepDefination - Making request for location: Los Angeles
+2024-09-11 15:25:52 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Los Angeles","local_names":{"el":"Λος Άντζελες","ar":"لوس أنجلس","fa":"لوس آنجلس","sr":"Лос Анђелес","he":"לוס אנג'לס","it":"Los Angeles","kn":"ಲೊಸ್ ಆಂಜೆಲೆಸ್","es":"Los Ángeles","zh":"洛杉矶","uk":"Лос-Анджелес","bn":"লোস আংজেলেস","th":"ลอสแอนเจลิส","hi":"लॉस एंजिलस","ja":"ロサンゼルス","tt":"Лос-Анджелес","ba":"Лос-Анджелес","de":"Los Angeles","mi":"Ngā Ānahera","eo":"Los-Anĝeleso","ko":"로스앤젤레스","lv":"Losandželosa","en":"Los Angeles","gl":"Os Ánxeles","oc":"Los Angeles","pt":"Los Angeles","fr":"Los Angeles","ru":"Лос-Анджелес","ka":"ლოს-ანჯელესი","ta":"லொஸ் ஆஞ்ஜெலெஸ்","pl":"Los Angeles","be":"Лос-Анджэлас"},"lat":34.0536909,"lon":-118.242766,"country":"US","state":"California"}]
+2024-09-11 15:25:53 INFO  api.StepDefination.GeoStepDefination - Received location details for Los Angeles: Latitude - 34.05369, Longitude - -118.24277
+2024-09-11 15:25:53 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:25:53 INFO  api.StepDefination.GeoStepDefination - City name specified: San Francisco
+2024-09-11 15:25:53 INFO  api.StepDefination.GeoStepDefination - Making request for location: San Francisco
+2024-09-11 15:25:53 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"San Francisco","local_names":{"ar":"سان فرانسيسكو","hr":"San Francisco","yi":"סאן פראנציסקא","so":"San Fransisko","bs":"San Francisco","pl":"San Francisco","ha":"San Francisco","bo":"སན་ཧྥུ་རན་སིས་ཁོ","cv":"Сан-Франциско","eu":"San Frantzisko","li":"San Francisco","eo":"San-Francisko","be":"Сан-Францыска","kn":"ಸಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೊ","fa":"سان فرانسیسکو","tt":"Сан-Франциско","ia":"San Francisco","gv":"San Francisco","yo":"San Francisco","ce":"Сан-Франциско","de":"San Francisco","lt":"San Fransiskas","el":"Σαν Φρανσίσκο","sk":"San Francisco","uk":"Сан-Франциско","mg":"San Francisco","it":"San Francisco","an":"San Francisco","sv":"San Francisco","ga":"San Francisco","no":"San Francisco","ty":"San Francisco","fi":"San Francisco","ca":"San Francisco","nl":"San Francisco","sc":"San Francisco","mk":"Сан Франциско","pa":"ਸਾਨ ਫ਼ਰਾਂਸਿਸਕੋ","da":"San Francisco","ht":"San Francisco","ru":"Сан-Франциско","fj":"San Francisco","bm":"San Francisco","sq":"San Francisco","ta":"சான் பிரான்சிஸ்கோ","ky":"Сан-Франциско","lb":"San Francisco","sh":"San Francisco","tr":"San Francisco","ka":"სან-ფრანცისკო","os":"Сан-Франциско","sr":"Сан Франциско","am":"ሳን ፍራንሲስኰ","sl":"San Francisco","ku":"San Francisco","na":"San Francisco","mi":"Hana Paraniko","hu":"San Francisco","ne":"सान फ्रान्सिस्को","co":"San Francisco","az":"San-Fransisko","pt":"São Francisco","kw":"San Francisco","kk":"Сан-Франциско","ki":"San Francisco","en":"San Francisco","th":"ซานฟรานซิสโก","ko":"샌프란시스코","et":"San Francisco","bn":"সান ফ্রান্সিস্কো","bg":"Сан Франциско","ug":"San Fransisko","zh":"旧金山;舊金山;三藩市","nn":"San Francisco","te":"శాన్ ఫ్రాన్సిస్కో","gl":"San Francisco","fo":"San Francisco","tw":"San Francisco","br":"San Francisco","io":"San Francisco","ie":"San Francisco","cy":"San Francisco","mr":"सॅन फ्रान्सिस्को","id":"San Francisco","mn":"Сан-Франциско","uz":"San Fransisko","ln":"San Francisco","vo":"San Francisco","ps":"سان فرانسسکو","ml":"സാൻ ഫ്രാൻസിസ്കോ","lv":"Sanfrancisko","la":"Franciscopolis","af":"San Francisco","si":"සැන් ෆ්‍රැන්සිස්කෝ","hy":"Սան Ֆրանցիսկո","my":"ဆန်ဖရန်စစ္စကိုမြို့","ba":"Сан-Франциско","ro":"San Francisco","ja":"サンフランシスコ","is":"San Francisco","es":"San Francisco","fr":"San Francisco","fy":"San Francisco","jv":"San Francisco","gd":"San Francisco","oc":"San Francisco","hi":"सैन फ़्रांसिस्को","sw":"San Francisco","nv":"Naʼníʼá Hóneezí","ms":"San Francisco","qu":"San Francisco","ur":"سان فرانسسکو","cs":"San Francisco","vi":"Cựu Kim Sơn","tl":"San Francisco","he":"סן פרנסיסקו"},"lat":37.7790262,"lon":-122.419906,"country":"US","state":"California"}]
+2024-09-11 15:25:53 INFO  api.StepDefination.GeoStepDefination - Received location details for San Francisco: Latitude - 37.779026, Longitude - -122.41991
+2024-09-11 15:25:53 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:25:53 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 10001
+2024-09-11 15:25:53 INFO  api.StepDefination.GeoStepDefination - Making request for location: 10001
+2024-09-11 15:25:54 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 15:25:54 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:25:54 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 90001
+2024-09-11 15:25:54 INFO  api.StepDefination.GeoStepDefination - Making request for location: 90001
+2024-09-11 15:25:54 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 15:25:54 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:25:54 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 94105
+2024-09-11 15:25:54 INFO  api.StepDefination.GeoStepDefination - Making request for location: 94105
+2024-09-11 15:25:54 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 15:50:49 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:50:49 INFO  api.StepDefination.GeoStepDefination - City name specified: New York
+2024-09-11 15:50:49 INFO  api.StepDefination.GeoStepDefination - Making request for location: New York
+2024-09-11 15:50:50 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"New York County","local_names":{"it":"New York","he":"ניו יורק","es":"Nueva York","ru":"Нью-Йорк","eo":"Novjorko","cy":"Efrog Newydd","uk":"Нью-Йорк","gl":"Nova York","ja":"ニューヨーク","ko":"뉴욕","kn":"ನ್ಯೂಯೊರ್ಕ್","el":"Νέα Υόρκη","pt":"Nova Iorque","ca":"Nova York","is":"Nýja Jórvík","en":"New York","te":"న్యూయొర్క్","hi":"न्यूयॊर्क्","oc":"Nòva York","pl":"Nowy Jork","fr":"New York","vi":"New York","cs":"New York","be":"Нью-Ёрк","ar":"نيويورك","zh":"纽约/紐約","fa":"نیویورک","de":"New York"},"lat":40.7127281,"lon":-74.0060152,"country":"US","state":"New York"}]
+2024-09-11 15:50:51 INFO  api.StepDefination.GeoStepDefination - Received location details for New York: Latitude - 40.712727, Longitude - -74.00601
+2024-09-11 15:50:51 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:50:51 INFO  api.StepDefination.GeoStepDefination - City name specified: Los Angeles
+2024-09-11 15:50:51 INFO  api.StepDefination.GeoStepDefination - Making request for location: Los Angeles
+2024-09-11 15:50:51 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Los Angeles","local_names":{"ta":"லொஸ் ஆஞ்ஜெலெஸ்","ar":"لوس أنجلس","fr":"Los Angeles","de":"Los Angeles","eo":"Los-Anĝeleso","gl":"Os Ánxeles","el":"Λος Άντζελες","it":"Los Angeles","tt":"Лос-Анджелес","be":"Лос-Анджэлас","zh":"洛杉矶","uk":"Лос-Анджелес","ja":"ロサンゼルス","es":"Los Ángeles","pl":"Los Angeles","th":"ลอสแอนเจลิส","en":"Los Angeles","oc":"Los Angeles","ko":"로스앤젤레스","mi":"Ngā Ānahera","lv":"Losandželosa","sr":"Лос Анђелес","he":"לוס אנג'לס","ka":"ლოს-ანჯელესი","ba":"Лос-Анджелес","hi":"लॉस एंजिलस","fa":"لوس آنجلس","kn":"ಲೊಸ್ ಆಂಜೆಲೆಸ್","ru":"Лос-Анджелес","pt":"Los Angeles","bn":"লোস আংজেলেস"},"lat":34.0536909,"lon":-118.242766,"country":"US","state":"California"}]
+2024-09-11 15:50:51 INFO  api.StepDefination.GeoStepDefination - Received location details for Los Angeles: Latitude - 34.05369, Longitude - -118.24277
+2024-09-11 15:50:51 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:50:51 INFO  api.StepDefination.GeoStepDefination - City name specified: San Francisco
+2024-09-11 15:50:51 INFO  api.StepDefination.GeoStepDefination - Making request for location: San Francisco
+2024-09-11 15:50:51 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"San Francisco","local_names":{"cy":"San Francisco","gd":"San Francisco","af":"San Francisco","lt":"San Fransiskas","ky":"Сан-Франциско","ja":"サンフランシスコ","el":"Σαν Φρανσίσκο","tt":"Сан-Франциско","it":"San Francisco","yi":"סאן פראנציסקא","fa":"سان فرانسیسکو","fy":"San Francisco","ln":"San Francisco","vo":"San Francisco","tr":"San Francisco","zh":"旧金山;舊金山;三藩市","ka":"სან-ფრანცისკო","yo":"San Francisco","pa":"ਸਾਨ ਫ਼ਰਾਂਸਿਸਕੋ","cs":"San Francisco","tw":"San Francisco","kw":"San Francisco","ia":"San Francisco","ca":"San Francisco","kn":"ಸಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೊ","ur":"سان فرانسسکو","eo":"San-Francisko","ps":"سان فرانسسکو","io":"San Francisco","id":"San Francisco","eu":"San Frantzisko","sc":"San Francisco","ty":"San Francisco","th":"ซานฟรานซิสโก","cv":"Сан-Франциско","ug":"San Fransisko","es":"San Francisco","ki":"San Francisco","gv":"San Francisco","hi":"सैन फ़्रांसिस्को","oc":"San Francisco","sw":"San Francisco","nv":"Naʼníʼá Hóneezí","ml":"സാൻ ഫ്രാൻസിസ്കോ","kk":"Сан-Франциско","vi":"Cựu Kim Sơn","ms":"San Francisco","uk":"Сан-Франциско","os":"Сан-Франциско","jv":"San Francisco","ht":"San Francisco","nl":"San Francisco","sq":"San Francisco","uz":"San Fransisko","fr":"San Francisco","ce":"Сан-Франциско","de":"San Francisco","hr":"San Francisco","fo":"San Francisco","an":"San Francisco","sh":"San Francisco","lv":"Sanfrancisko","lb":"San Francisco","ie":"San Francisco","qu":"San Francisco","en":"San Francisco","hy":"Սան Ֆրանցիսկո","bm":"San Francisco","he":"סן פרנסיסקו","my":"ဆန်ဖရန်စစ္စကိုမြို့","is":"San Francisco","ne":"सान फ्रान्सिस्को","bn":"সান ফ্রান্সিস্কো","ro":"San Francisco","pt":"São Francisco","co":"San Francisco","am":"ሳን ፍራንሲስኰ","nn":"San Francisco","ku":"San Francisco","fi":"San Francisco","te":"శాన్ ఫ్రాన్సిస్కో","ba":"Сан-Франциско","la":"Franciscopolis","be":"Сан-Францыска","hu":"San Francisco","li":"San Francisco","ko":"샌프란시스코","sr":"Сан Франциско","mg":"San Francisco","si":"සැන් ෆ්‍රැන්සිස්කෝ","mn":"Сан-Франциско","da":"San Francisco","ga":"San Francisco","bo":"སན་ཧྥུ་རན་སིས་ཁོ","na":"San Francisco","ar":"سان فرانسيسكو","bg":"Сан Франциско","mi":"Hana Paraniko","ta":"சான் பிரான்சிஸ்கோ","tl":"San Francisco","pl":"San Francisco","ha":"San Francisco","ru":"Сан-Франциско","no":"San Francisco","mk":"Сан Франциско","bs":"San Francisco","et":"San Francisco","sv":"San Francisco","so":"San Fransisko","fj":"San Francisco","br":"San Francisco","gl":"San Francisco","sl":"San Francisco","az":"San-Fransisko","sk":"San Francisco","mr":"सॅन फ्रान्सिस्को"},"lat":37.7790262,"lon":-122.419906,"country":"US","state":"California"}]
+2024-09-11 15:50:51 INFO  api.StepDefination.GeoStepDefination - Received location details for San Francisco: Latitude - 37.779026, Longitude - -122.41991
+2024-09-11 15:50:51 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:50:51 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 10001
+2024-09-11 15:50:52 INFO  api.StepDefination.GeoStepDefination - API response for postal code 10001: {"zip":"10001","name":"New York","lat":40.7484,"lon":-73.9967,"country":"US"}
+2024-09-11 15:50:52 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:50:52 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 90001
+2024-09-11 15:50:52 INFO  api.StepDefination.GeoStepDefination - API response for postal code 90001: {"zip":"90001","name":"Los Angeles County","lat":33.9731,"lon":-118.2479,"country":"US"}
+2024-09-11 15:50:52 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:50:52 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 94105
+2024-09-11 15:50:52 INFO  api.StepDefination.GeoStepDefination - API response for postal code 94105: {"zip":"94105","name":"San Francisco","lat":37.7864,"lon":-122.3892,"country":"US"}
+2024-09-11 15:57:14 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:57:14 INFO  api.StepDefination.GeoStepDefination - City name specified: New York
+2024-09-11 15:57:14 INFO  api.StepDefination.GeoStepDefination - Making request for location: New York
+2024-09-11 15:57:16 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"New York County","local_names":{"it":"New York","he":"ניו יורק","es":"Nueva York","ru":"Нью-Йорк","eo":"Novjorko","cy":"Efrog Newydd","uk":"Нью-Йорк","gl":"Nova York","ja":"ニューヨーク","ko":"뉴욕","kn":"ನ್ಯೂಯೊರ್ಕ್","el":"Νέα Υόρκη","pt":"Nova Iorque","ca":"Nova York","is":"Nýja Jórvík","en":"New York","te":"న్యూయొర్క్","hi":"न्यूयॊर्क्","oc":"Nòva York","pl":"Nowy Jork","fr":"New York","vi":"New York","cs":"New York","be":"Нью-Ёрк","ar":"نيويورك","zh":"纽约/紐約","fa":"نیویورک","de":"New York"},"lat":40.7127281,"lon":-74.0060152,"country":"US","state":"New York"}]
+2024-09-11 15:57:16 INFO  api.StepDefination.GeoStepDefination - Received location details for New York: Latitude - 40.712727, Longitude - -74.00601
+2024-09-11 15:57:16 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:57:16 INFO  api.StepDefination.GeoStepDefination - City name specified: Los Angeles
+2024-09-11 15:57:16 INFO  api.StepDefination.GeoStepDefination - Making request for location: Los Angeles
+2024-09-11 15:57:17 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Los Angeles","local_names":{"ta":"லொஸ் ஆஞ்ஜெலெஸ்","ar":"لوس أنجلس","fr":"Los Angeles","de":"Los Angeles","eo":"Los-Anĝeleso","gl":"Os Ánxeles","el":"Λος Άντζελες","it":"Los Angeles","tt":"Лос-Анджелес","be":"Лос-Анджэлас","zh":"洛杉矶","uk":"Лос-Анджелес","ja":"ロサンゼルス","es":"Los Ángeles","pl":"Los Angeles","th":"ลอสแอนเจลิส","en":"Los Angeles","oc":"Los Angeles","ko":"로스앤젤레스","mi":"Ngā Ānahera","lv":"Losandželosa","sr":"Лос Анђелес","he":"לוס אנג'לס","ka":"ლოს-ანჯელესი","ba":"Лос-Анджелес","hi":"लॉस एंजिलस","fa":"لوس آنجلس","kn":"ಲೊಸ್ ಆಂಜೆಲೆಸ್","ru":"Лос-Анджелес","pt":"Los Angeles","bn":"লোস আংজেলেস"},"lat":34.0536909,"lon":-118.242766,"country":"US","state":"California"}]
+2024-09-11 15:57:17 INFO  api.StepDefination.GeoStepDefination - Received location details for Los Angeles: Latitude - 34.05369, Longitude - -118.24277
+2024-09-11 15:57:17 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:57:17 INFO  api.StepDefination.GeoStepDefination - City name specified: San Francisco
+2024-09-11 15:57:17 INFO  api.StepDefination.GeoStepDefination - Making request for location: San Francisco
+2024-09-11 15:57:17 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"San Francisco","local_names":{"cy":"San Francisco","gd":"San Francisco","af":"San Francisco","lt":"San Fransiskas","ky":"Сан-Франциско","ja":"サンフランシスコ","el":"Σαν Φρανσίσκο","tt":"Сан-Франциско","it":"San Francisco","yi":"סאן פראנציסקא","fa":"سان فرانسیسکو","fy":"San Francisco","ln":"San Francisco","vo":"San Francisco","tr":"San Francisco","zh":"旧金山;舊金山;三藩市","ka":"სან-ფრანცისკო","yo":"San Francisco","pa":"ਸਾਨ ਫ਼ਰਾਂਸਿਸਕੋ","cs":"San Francisco","tw":"San Francisco","kw":"San Francisco","ia":"San Francisco","ca":"San Francisco","kn":"ಸಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೊ","ur":"سان فرانسسکو","eo":"San-Francisko","ps":"سان فرانسسکو","io":"San Francisco","id":"San Francisco","eu":"San Frantzisko","sc":"San Francisco","ty":"San Francisco","th":"ซานฟรานซิสโก","cv":"Сан-Франциско","ug":"San Fransisko","es":"San Francisco","ki":"San Francisco","gv":"San Francisco","hi":"सैन फ़्रांसिस्को","oc":"San Francisco","sw":"San Francisco","nv":"Naʼníʼá Hóneezí","ml":"സാൻ ഫ്രാൻസിസ്കോ","kk":"Сан-Франциско","vi":"Cựu Kim Sơn","ms":"San Francisco","uk":"Сан-Франциско","os":"Сан-Франциско","jv":"San Francisco","ht":"San Francisco","nl":"San Francisco","sq":"San Francisco","uz":"San Fransisko","fr":"San Francisco","ce":"Сан-Франциско","de":"San Francisco","hr":"San Francisco","fo":"San Francisco","an":"San Francisco","sh":"San Francisco","lv":"Sanfrancisko","lb":"San Francisco","ie":"San Francisco","qu":"San Francisco","en":"San Francisco","hy":"Սան Ֆրանցիսկո","bm":"San Francisco","he":"סן פרנסיסקו","my":"ဆန်ဖရန်စစ္စကိုမြို့","is":"San Francisco","ne":"सान फ्रान्सिस्को","bn":"সান ফ্রান্সিস্কো","ro":"San Francisco","pt":"São Francisco","co":"San Francisco","am":"ሳን ፍራንሲስኰ","nn":"San Francisco","ku":"San Francisco","fi":"San Francisco","te":"శాన్ ఫ్రాన్సిస్కో","ba":"Сан-Франциско","la":"Franciscopolis","be":"Сан-Францыска","hu":"San Francisco","li":"San Francisco","ko":"샌프란시스코","sr":"Сан Франциско","mg":"San Francisco","si":"සැන් ෆ්‍රැන්සිස්කෝ","mn":"Сан-Франциско","da":"San Francisco","ga":"San Francisco","bo":"སན་ཧྥུ་རན་སིས་ཁོ","na":"San Francisco","ar":"سان فرانسيسكو","bg":"Сан Франциско","mi":"Hana Paraniko","ta":"சான் பிரான்சிஸ்கோ","tl":"San Francisco","pl":"San Francisco","ha":"San Francisco","ru":"Сан-Франциско","no":"San Francisco","mk":"Сан Франциско","bs":"San Francisco","et":"San Francisco","sv":"San Francisco","so":"San Fransisko","fj":"San Francisco","br":"San Francisco","gl":"San Francisco","sl":"San Francisco","az":"San-Fransisko","sk":"San Francisco","mr":"सॅन फ्रान्सिस्को"},"lat":37.7790262,"lon":-122.419906,"country":"US","state":"California"}]
+2024-09-11 15:57:17 INFO  api.StepDefination.GeoStepDefination - Received location details for San Francisco: Latitude - 37.779026, Longitude - -122.41991
+2024-09-11 15:57:17 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:57:17 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 10001
+2024-09-11 15:57:17 INFO  api.StepDefination.GeoStepDefination - API response for postal code 10001: {"zip":"10001","name":"New York","lat":40.7484,"lon":-73.9967,"country":"US"}
+2024-09-11 15:57:17 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 10001: Latitude - 40.7484, Longitude - -73.9967
+2024-09-11 15:57:17 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:57:17 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 90001
+2024-09-11 15:57:17 INFO  api.StepDefination.GeoStepDefination - API response for postal code 90001: {"zip":"90001","name":"Los Angeles County","lat":33.9731,"lon":-118.2479,"country":"US"}
+2024-09-11 15:57:17 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 90001: Latitude - 33.9731, Longitude - -118.2479
+2024-09-11 15:57:17 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 15:57:17 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 94105
+2024-09-11 15:57:17 INFO  api.StepDefination.GeoStepDefination - API response for postal code 94105: {"zip":"94105","name":"San Francisco","lat":37.7864,"lon":-122.3892,"country":"US"}
+2024-09-11 15:57:17 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 94105: Latitude - 37.7864, Longitude - -122.3892
+2024-09-11 16:05:45 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:05:45 INFO  api.StepDefination.GeoStepDefination - City name specified: New York
+2024-09-11 16:05:45 INFO  api.StepDefination.GeoStepDefination - Making request for location: New York
+2024-09-11 16:05:47 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"New York County","local_names":{"cy":"Efrog Newydd","uk":"Нью-Йорк","kn":"ನ್ಯೂಯೊರ್ಕ್","el":"Νέα Υόρκη","en":"New York","ko":"뉴욕","gl":"Nova York","zh":"纽约/紐約","cs":"New York","oc":"Nòva York","pt":"Nova Iorque","is":"Nýja Jórvík","te":"న్యూయొర్క్","it":"New York","ca":"Nova York","ar":"نيويورك","es":"Nueva York","pl":"Nowy Jork","fr":"New York","vi":"New York","hi":"न्यूयॊर्क्","ru":"Нью-Йорк","eo":"Novjorko","fa":"نیویورک","he":"ניו יורק","de":"New York","be":"Нью-Ёрк","ja":"ニューヨーク"},"lat":40.7127281,"lon":-74.0060152,"country":"US","state":"New York"}]
+2024-09-11 16:05:48 INFO  api.StepDefination.GeoStepDefination - Received location details for New York: Latitude - 40.712727, Longitude - -74.00601
+2024-09-11 16:05:48 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:05:48 INFO  api.StepDefination.GeoStepDefination - City name specified: Los Angeles
+2024-09-11 16:05:48 INFO  api.StepDefination.GeoStepDefination - Making request for location: Los Angeles
+2024-09-11 16:05:48 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Los Angeles","local_names":{"gl":"Os Ánxeles","ka":"ლოს-ანჯელესი","de":"Los Angeles","mi":"Ngā Ānahera","en":"Los Angeles","el":"Λος Άντζελες","it":"Los Angeles","hi":"लॉस एंजिलस","ko":"로스앤젤레스","ja":"ロサンゼルス","ta":"லொஸ் ஆஞ்ஜெலெஸ்","uk":"Лос-Анджелес","th":"ลอสแอนเจลิส","ru":"Лос-Анджелес","lv":"Losandželosa","es":"Los Ángeles","be":"Лос-Анджэлас","ar":"لوس أنجلس","oc":"Los Angeles","bn":"লোস আংজেলেস","zh":"洛杉矶","pl":"Los Angeles","eo":"Los-Anĝeleso","sr":"Лос Анђелес","ba":"Лос-Анджелес","fa":"لوس آنجلس","kn":"ಲೊಸ್ ಆಂಜೆಲೆಸ್","fr":"Los Angeles","pt":"Los Angeles","tt":"Лос-Анджелес","he":"לוס אנג'לס"},"lat":34.0536909,"lon":-118.242766,"country":"US","state":"California"}]
+2024-09-11 16:05:48 INFO  api.StepDefination.GeoStepDefination - Received location details for Los Angeles: Latitude - 34.05369, Longitude - -118.24277
+2024-09-11 16:05:48 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:05:48 INFO  api.StepDefination.GeoStepDefination - City name specified: San Francisco
+2024-09-11 16:05:48 INFO  api.StepDefination.GeoStepDefination - Making request for location: San Francisco
+2024-09-11 16:05:48 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"San Francisco","local_names":{"eo":"San-Francisko","fj":"San Francisco","ie":"San Francisco","ki":"San Francisco","cs":"San Francisco","co":"San Francisco","be":"Сан-Францыска","uk":"Сан-Франциско","ne":"सान फ्रान्सिस्को","ty":"San Francisco","da":"San Francisco","nl":"San Francisco","sk":"San Francisco","id":"San Francisco","qu":"San Francisco","ka":"სან-ფრანცისკო","tl":"San Francisco","ln":"San Francisco","vo":"San Francisco","tt":"Сан-Франциско","bg":"Сан Франциско","es":"San Francisco","ta":"சான் பிரான்சிஸ்கோ","yo":"San Francisco","ce":"Сан-Франциско","az":"San-Fransisko","bn":"সান ফ্রান্সিস্কো","fa":"سان فرانسیسکو","la":"Franciscopolis","gd":"San Francisco","cv":"Сан-Франциско","ug":"San Fransisko","tw":"San Francisco","kw":"San Francisco","si":"සැන් ෆ්‍රැන්සිස්කෝ","pl":"San Francisco","af":"San Francisco","ps":"سان فرانسسکو","io":"San Francisco","ja":"サンフランシスコ","sl":"San Francisco","no":"San Francisco","th":"ซานฟรานซิสโก","he":"סן פרנסיסקו","mk":"Сан Франциско","bs":"San Francisco","mg":"San Francisco","pt":"São Francisco","sw":"San Francisco","ku":"San Francisco","ru":"Сан-Франциско","so":"San Fransisko","ms":"San Francisco","sq":"San Francisco","ky":"Сан-Франциско","uz":"San Fransisko","bo":"སན་ཧྥུ་རན་སིས་ཁོ","ro":"San Francisco","ba":"Сан-Франциско","gv":"San Francisco","fr":"San Francisco","hr":"San Francisco","sh":"San Francisco","mn":"Сан-Франциско","os":"Сан-Франциско","jv":"San Francisco","te":"శాన్ ఫ్రాన్సిస్కో","is":"San Francisco","mr":"सॅन फ्रान्सिस्को","it":"San Francisco","na":"San Francisco","ca":"San Francisco","an":"San Francisco","bm":"San Francisco","fy":"San Francisco","fo":"San Francisco","ht":"San Francisco","ur":"سان فرانسسکو","lv":"Sanfrancisko","li":"San Francisco","gl":"San Francisco","et":"San Francisco","en":"San Francisco","ar":"سان فرانسيسكو","br":"San Francisco","sr":"Сан Франциско","tr":"San Francisco","yi":"סאן פראנציסקא","ml":"സാൻ ഫ്രാൻസിസ്കോ","ia":"San Francisco","cy":"San Francisco","hy":"Սան Ֆրանցիսկո","lt":"San Fransiskas","ha":"San Francisco","zh":"旧金山;舊金山;三藩市","pa":"ਸਾਨ ਫ਼ਰਾਂਸਿਸਕੋ","nv":"Naʼníʼá Hóneezí","my":"ဆန်ဖရန်စစ္စကိုမြို့","kk":"Сан-Франциско","eu":"San Frantzisko","nn":"San Francisco","hu":"San Francisco","fi":"San Francisco","vi":"Cựu Kim Sơn","de":"San Francisco","am":"ሳን ፍራንሲስኰ","kn":"ಸಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೊ","sv":"San Francisco","ga":"San Francisco","mi":"Hana Paraniko","ko":"샌프란시스코","oc":"San Francisco","sc":"San Francisco","lb":"San Francisco","hi":"सैन फ़्रांसिस्को","el":"Σαν Φρανσίσκο"},"lat":37.7790262,"lon":-122.419906,"country":"US","state":"California"}]
+2024-09-11 16:05:48 INFO  api.StepDefination.GeoStepDefination - Received location details for San Francisco: Latitude - 37.779026, Longitude - -122.41991
+2024-09-11 16:05:48 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:05:48 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 10001
+2024-09-11 16:05:48 INFO  api.StepDefination.GeoStepDefination - API response for postal code 10001: {"zip":"10001","name":"New York","lat":40.7484,"lon":-73.9967,"country":"US"}
+2024-09-11 16:05:48 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 10001: Latitude - 40.7484, Longitude - -73.9967
+2024-09-11 16:05:48 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:05:48 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 90001
+2024-09-11 16:05:49 INFO  api.StepDefination.GeoStepDefination - API response for postal code 90001: {"zip":"90001","name":"Los Angeles County","lat":33.9731,"lon":-118.2479,"country":"US"}
+2024-09-11 16:05:49 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 90001: Latitude - 33.9731, Longitude - -118.2479
+2024-09-11 16:05:49 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:05:49 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 94105
+2024-09-11 16:05:49 INFO  api.StepDefination.GeoStepDefination - API response for postal code 94105: {"zip":"94105","name":"San Francisco","lat":37.7864,"lon":-122.3892,"country":"US"}
+2024-09-11 16:05:49 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 94105: Latitude - 37.7864, Longitude - -122.3892
+2024-09-11 16:05:49 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:05:49 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Atlantis
+2024-09-11 16:05:49 INFO  api.StepDefination.GeoStepDefination - API response for postal code Atlantis: {"cod":"404","message":"not found"}
+2024-09-11 16:05:49 INFO  api.StepDefination.GeoStepDefination - No location found for: Atlantis
+2024-09-11 16:05:49 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:05:49 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Neverland
+2024-09-11 16:05:49 INFO  api.StepDefination.GeoStepDefination - API response for postal code Neverland: {"cod":"404","message":"not found"}
+2024-09-11 16:05:49 INFO  api.StepDefination.GeoStepDefination - No location found for: Neverland
+2024-09-11 16:05:49 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:05:49 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Narnia
+2024-09-11 16:05:49 INFO  api.StepDefination.GeoStepDefination - API response for postal code Narnia: {"cod":"404","message":"not found"}
+2024-09-11 16:05:49 INFO  api.StepDefination.GeoStepDefination - No location found for: Narnia
+2024-09-11 16:06:36 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:06:36 INFO  api.StepDefination.GeoStepDefination - City name specified: New York
+2024-09-11 16:06:36 INFO  api.StepDefination.GeoStepDefination - Making request for location: New York
+2024-09-11 16:06:38 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"New York County","local_names":{"cy":"Efrog Newydd","uk":"Нью-Йорк","kn":"ನ್ಯೂಯೊರ್ಕ್","el":"Νέα Υόρκη","en":"New York","ko":"뉴욕","gl":"Nova York","zh":"纽约/紐約","cs":"New York","oc":"Nòva York","pt":"Nova Iorque","is":"Nýja Jórvík","te":"న్యూయొర్క్","it":"New York","ca":"Nova York","ar":"نيويورك","es":"Nueva York","pl":"Nowy Jork","fr":"New York","vi":"New York","hi":"न्यूयॊर्क्","ru":"Нью-Йорк","eo":"Novjorko","fa":"نیویورک","he":"ניו יורק","de":"New York","be":"Нью-Ёрк","ja":"ニューヨーク"},"lat":40.7127281,"lon":-74.0060152,"country":"US","state":"New York"}]
+2024-09-11 16:06:38 INFO  api.StepDefination.GeoStepDefination - Received location details for New York: Latitude - 40.712727, Longitude - -74.00601
+2024-09-11 16:06:38 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:06:38 INFO  api.StepDefination.GeoStepDefination - City name specified: Los Angeles
+2024-09-11 16:06:38 INFO  api.StepDefination.GeoStepDefination - Making request for location: Los Angeles
+2024-09-11 16:06:38 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Los Angeles","local_names":{"gl":"Os Ánxeles","ka":"ლოს-ანჯელესი","de":"Los Angeles","mi":"Ngā Ānahera","en":"Los Angeles","el":"Λος Άντζελες","it":"Los Angeles","hi":"लॉस एंजिलस","ko":"로스앤젤레스","ja":"ロサンゼルス","ta":"லொஸ் ஆஞ்ஜெலெஸ்","uk":"Лос-Анджелес","th":"ลอสแอนเจลิส","ru":"Лос-Анджелес","lv":"Losandželosa","es":"Los Ángeles","be":"Лос-Анджэлас","ar":"لوس أنجلس","oc":"Los Angeles","bn":"লোস আংজেলেস","zh":"洛杉矶","pl":"Los Angeles","eo":"Los-Anĝeleso","sr":"Лос Анђелес","ba":"Лос-Анджелес","fa":"لوس آنجلس","kn":"ಲೊಸ್ ಆಂಜೆಲೆಸ್","fr":"Los Angeles","pt":"Los Angeles","tt":"Лос-Анджелес","he":"לוס אנג'לס"},"lat":34.0536909,"lon":-118.242766,"country":"US","state":"California"}]
+2024-09-11 16:06:38 INFO  api.StepDefination.GeoStepDefination - Received location details for Los Angeles: Latitude - 34.05369, Longitude - -118.24277
+2024-09-11 16:06:38 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:06:38 INFO  api.StepDefination.GeoStepDefination - City name specified: San Francisco
+2024-09-11 16:06:38 INFO  api.StepDefination.GeoStepDefination - Making request for location: San Francisco
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"San Francisco","local_names":{"eo":"San-Francisko","fj":"San Francisco","ie":"San Francisco","ki":"San Francisco","cs":"San Francisco","co":"San Francisco","be":"Сан-Францыска","uk":"Сан-Франциско","ne":"सान फ्रान्सिस्को","ty":"San Francisco","da":"San Francisco","nl":"San Francisco","sk":"San Francisco","id":"San Francisco","qu":"San Francisco","ka":"სან-ფრანცისკო","tl":"San Francisco","ln":"San Francisco","vo":"San Francisco","tt":"Сан-Франциско","bg":"Сан Франциско","es":"San Francisco","ta":"சான் பிரான்சிஸ்கோ","yo":"San Francisco","ce":"Сан-Франциско","az":"San-Fransisko","bn":"সান ফ্রান্সিস্কো","fa":"سان فرانسیسکو","la":"Franciscopolis","gd":"San Francisco","cv":"Сан-Франциско","ug":"San Fransisko","tw":"San Francisco","kw":"San Francisco","si":"සැන් ෆ්‍රැන්සිස්කෝ","pl":"San Francisco","af":"San Francisco","ps":"سان فرانسسکو","io":"San Francisco","ja":"サンフランシスコ","sl":"San Francisco","no":"San Francisco","th":"ซานฟรานซิสโก","he":"סן פרנסיסקו","mk":"Сан Франциско","bs":"San Francisco","mg":"San Francisco","pt":"São Francisco","sw":"San Francisco","ku":"San Francisco","ru":"Сан-Франциско","so":"San Fransisko","ms":"San Francisco","sq":"San Francisco","ky":"Сан-Франциско","uz":"San Fransisko","bo":"སན་ཧྥུ་རན་སིས་ཁོ","ro":"San Francisco","ba":"Сан-Франциско","gv":"San Francisco","fr":"San Francisco","hr":"San Francisco","sh":"San Francisco","mn":"Сан-Франциско","os":"Сан-Франциско","jv":"San Francisco","te":"శాన్ ఫ్రాన్సిస్కో","is":"San Francisco","mr":"सॅन फ्रान्सिस्को","it":"San Francisco","na":"San Francisco","ca":"San Francisco","an":"San Francisco","bm":"San Francisco","fy":"San Francisco","fo":"San Francisco","ht":"San Francisco","ur":"سان فرانسسکو","lv":"Sanfrancisko","li":"San Francisco","gl":"San Francisco","et":"San Francisco","en":"San Francisco","ar":"سان فرانسيسكو","br":"San Francisco","sr":"Сан Франциско","tr":"San Francisco","yi":"סאן פראנציסקא","ml":"സാൻ ഫ്രാൻസിസ്കോ","ia":"San Francisco","cy":"San Francisco","hy":"Սան Ֆրանցիսկո","lt":"San Fransiskas","ha":"San Francisco","zh":"旧金山;舊金山;三藩市","pa":"ਸਾਨ ਫ਼ਰਾਂਸਿਸਕੋ","nv":"Naʼníʼá Hóneezí","my":"ဆန်ဖရန်စစ္စကိုမြို့","kk":"Сан-Франциско","eu":"San Frantzisko","nn":"San Francisco","hu":"San Francisco","fi":"San Francisco","vi":"Cựu Kim Sơn","de":"San Francisco","am":"ሳን ፍራንሲስኰ","kn":"ಸಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೊ","sv":"San Francisco","ga":"San Francisco","mi":"Hana Paraniko","ko":"샌프란시스코","oc":"San Francisco","sc":"San Francisco","lb":"San Francisco","hi":"सैन फ़्रांसिस्को","el":"Σαν Φρανσίσκο"},"lat":37.7790262,"lon":-122.419906,"country":"US","state":"California"}]
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - Received location details for San Francisco: Latitude - 37.779026, Longitude - -122.41991
+2024-09-11 16:06:39 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 10001
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - API response for postal code 10001: {"zip":"10001","name":"New York","lat":40.7484,"lon":-73.9967,"country":"US"}
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 10001: Latitude - 40.7484, Longitude - -73.9967
+2024-09-11 16:06:39 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 90001
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - API response for postal code 90001: {"zip":"90001","name":"Los Angeles County","lat":33.9731,"lon":-118.2479,"country":"US"}
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 90001: Latitude - 33.9731, Longitude - -118.2479
+2024-09-11 16:06:39 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 94105
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - API response for postal code 94105: {"zip":"94105","name":"San Francisco","lat":37.7864,"lon":-122.3892,"country":"US"}
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 94105: Latitude - 37.7864, Longitude - -122.3892
+2024-09-11 16:06:39 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Atlantis
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - API response for postal code Atlantis: {"cod":"404","message":"not found"}
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - No location found for: Atlantis
+2024-09-11 16:06:39 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Neverland
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - API response for postal code Neverland: {"cod":"404","message":"not found"}
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - No location found for: Neverland
+2024-09-11 16:06:39 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Narnia
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - API response for postal code Narnia: {"cod":"404","message":"not found"}
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - No location found for: Narnia
+2024-09-11 16:06:39 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 99999
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - Making request for location: 99999
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:06:39 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 00000
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - Making request for location: 00000
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:06:39 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 88888
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - Making request for location: 88888
+2024-09-11 16:06:39 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:14:36 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:14:36 INFO  api.StepDefination.GeoStepDefination - City name specified: New York
+2024-09-11 16:14:36 INFO  api.StepDefination.GeoStepDefination - Making request for location: New York
+2024-09-11 16:14:37 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"New York County","local_names":{"cy":"Efrog Newydd","uk":"Нью-Йорк","kn":"ನ್ಯೂಯೊರ್ಕ್","el":"Νέα Υόρκη","en":"New York","ko":"뉴욕","gl":"Nova York","zh":"纽约/紐約","cs":"New York","oc":"Nòva York","pt":"Nova Iorque","is":"Nýja Jórvík","te":"న్యూయొర్క్","it":"New York","ca":"Nova York","ar":"نيويورك","es":"Nueva York","pl":"Nowy Jork","fr":"New York","vi":"New York","hi":"न्यूयॊर्क्","ru":"Нью-Йорк","eo":"Novjorko","fa":"نیویورک","he":"ניו יורק","de":"New York","be":"Нью-Ёрк","ja":"ニューヨーク"},"lat":40.7127281,"lon":-74.0060152,"country":"US","state":"New York"}]
+2024-09-11 16:14:38 INFO  api.StepDefination.GeoStepDefination - Received location details for New York: Latitude - 40.712727, Longitude - -74.00601
+2024-09-11 16:14:38 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:14:38 INFO  api.StepDefination.GeoStepDefination - City name specified: Los Angeles
+2024-09-11 16:14:38 INFO  api.StepDefination.GeoStepDefination - Making request for location: Los Angeles
+2024-09-11 16:14:38 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Los Angeles","local_names":{"gl":"Os Ánxeles","ka":"ლოს-ანჯელესი","de":"Los Angeles","mi":"Ngā Ānahera","en":"Los Angeles","el":"Λος Άντζελες","it":"Los Angeles","hi":"लॉस एंजिलस","ko":"로스앤젤레스","ja":"ロサンゼルス","ta":"லொஸ் ஆஞ்ஜெலெஸ்","uk":"Лос-Анджелес","th":"ลอสแอนเจลิส","ru":"Лос-Анджелес","lv":"Losandželosa","es":"Los Ángeles","be":"Лос-Анджэлас","ar":"لوس أنجلس","oc":"Los Angeles","bn":"লোস আংজেলেস","zh":"洛杉矶","pl":"Los Angeles","eo":"Los-Anĝeleso","sr":"Лос Анђелес","ba":"Лос-Анджелес","fa":"لوس آنجلس","kn":"ಲೊಸ್ ಆಂಜೆಲೆಸ್","fr":"Los Angeles","pt":"Los Angeles","tt":"Лос-Анджелес","he":"לוס אנג'לס"},"lat":34.0536909,"lon":-118.242766,"country":"US","state":"California"}]
+2024-09-11 16:14:38 INFO  api.StepDefination.GeoStepDefination - Received location details for Los Angeles: Latitude - 34.05369, Longitude - -118.24277
+2024-09-11 16:14:38 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:14:38 INFO  api.StepDefination.GeoStepDefination - City name specified: San Francisco
+2024-09-11 16:14:38 INFO  api.StepDefination.GeoStepDefination - Making request for location: San Francisco
+2024-09-11 16:14:38 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"San Francisco","local_names":{"eo":"San-Francisko","fj":"San Francisco","ie":"San Francisco","ki":"San Francisco","cs":"San Francisco","co":"San Francisco","be":"Сан-Францыска","uk":"Сан-Франциско","ne":"सान फ्रान्सिस्को","ty":"San Francisco","da":"San Francisco","nl":"San Francisco","sk":"San Francisco","id":"San Francisco","qu":"San Francisco","ka":"სან-ფრანცისკო","tl":"San Francisco","ln":"San Francisco","vo":"San Francisco","tt":"Сан-Франциско","bg":"Сан Франциско","es":"San Francisco","ta":"சான் பிரான்சிஸ்கோ","yo":"San Francisco","ce":"Сан-Франциско","az":"San-Fransisko","bn":"সান ফ্রান্সিস্কো","fa":"سان فرانسیسکو","la":"Franciscopolis","gd":"San Francisco","cv":"Сан-Франциско","ug":"San Fransisko","tw":"San Francisco","kw":"San Francisco","si":"සැන් ෆ්‍රැන්සිස්කෝ","pl":"San Francisco","af":"San Francisco","ps":"سان فرانسسکو","io":"San Francisco","ja":"サンフランシスコ","sl":"San Francisco","no":"San Francisco","th":"ซานฟรานซิสโก","he":"סן פרנסיסקו","mk":"Сан Франциско","bs":"San Francisco","mg":"San Francisco","pt":"São Francisco","sw":"San Francisco","ku":"San Francisco","ru":"Сан-Франциско","so":"San Fransisko","ms":"San Francisco","sq":"San Francisco","ky":"Сан-Франциско","uz":"San Fransisko","bo":"སན་ཧྥུ་རན་སིས་ཁོ","ro":"San Francisco","ba":"Сан-Франциско","gv":"San Francisco","fr":"San Francisco","hr":"San Francisco","sh":"San Francisco","mn":"Сан-Франциско","os":"Сан-Франциско","jv":"San Francisco","te":"శాన్ ఫ్రాన్సిస్కో","is":"San Francisco","mr":"सॅन फ्रान्सिस्को","it":"San Francisco","na":"San Francisco","ca":"San Francisco","an":"San Francisco","bm":"San Francisco","fy":"San Francisco","fo":"San Francisco","ht":"San Francisco","ur":"سان فرانسسکو","lv":"Sanfrancisko","li":"San Francisco","gl":"San Francisco","et":"San Francisco","en":"San Francisco","ar":"سان فرانسيسكو","br":"San Francisco","sr":"Сан Франциско","tr":"San Francisco","yi":"סאן פראנציסקא","ml":"സാൻ ഫ്രാൻസിസ്കോ","ia":"San Francisco","cy":"San Francisco","hy":"Սան Ֆրանցիսկո","lt":"San Fransiskas","ha":"San Francisco","zh":"旧金山;舊金山;三藩市","pa":"ਸਾਨ ਫ਼ਰਾਂਸਿਸਕੋ","nv":"Naʼníʼá Hóneezí","my":"ဆန်ဖရန်စစ္စကိုမြို့","kk":"Сан-Франциско","eu":"San Frantzisko","nn":"San Francisco","hu":"San Francisco","fi":"San Francisco","vi":"Cựu Kim Sơn","de":"San Francisco","am":"ሳን ፍራንሲስኰ","kn":"ಸಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೊ","sv":"San Francisco","ga":"San Francisco","mi":"Hana Paraniko","ko":"샌프란시스코","oc":"San Francisco","sc":"San Francisco","lb":"San Francisco","hi":"सैन फ़्रांसिस्को","el":"Σαν Φρανσίσκο"},"lat":37.7790262,"lon":-122.419906,"country":"US","state":"California"}]
+2024-09-11 16:14:38 INFO  api.StepDefination.GeoStepDefination - Received location details for San Francisco: Latitude - 37.779026, Longitude - -122.41991
+2024-09-11 16:14:38 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:14:38 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 10001
+2024-09-11 16:14:38 INFO  api.StepDefination.GeoStepDefination - API response for postal code 10001: {"zip":"10001","name":"New York","lat":40.7484,"lon":-73.9967,"country":"US"}
+2024-09-11 16:14:38 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 10001: Latitude - 40.7484, Longitude - -73.9967
+2024-09-11 16:14:38 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:14:38 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 90001
+2024-09-11 16:14:38 INFO  api.StepDefination.GeoStepDefination - API response for postal code 90001: {"zip":"90001","name":"Los Angeles County","lat":33.9731,"lon":-118.2479,"country":"US"}
+2024-09-11 16:14:38 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 90001: Latitude - 33.9731, Longitude - -118.2479
+2024-09-11 16:14:38 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:14:38 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 94105
+2024-09-11 16:14:39 INFO  api.StepDefination.GeoStepDefination - API response for postal code 94105: {"zip":"94105","name":"San Francisco","lat":37.7864,"lon":-122.3892,"country":"US"}
+2024-09-11 16:14:39 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 94105: Latitude - 37.7864, Longitude - -122.3892
+2024-09-11 16:14:39 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:14:39 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Atlantis
+2024-09-11 16:14:39 INFO  api.StepDefination.GeoStepDefination - API response for postal code Atlantis: {"cod":"404","message":"not found"}
+2024-09-11 16:14:39 INFO  api.StepDefination.GeoStepDefination - No location found for: Atlantis
+2024-09-11 16:14:39 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:14:39 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Neverland
+2024-09-11 16:14:39 INFO  api.StepDefination.GeoStepDefination - API response for postal code Neverland: {"cod":"404","message":"not found"}
+2024-09-11 16:14:39 INFO  api.StepDefination.GeoStepDefination - No location found for: Neverland
+2024-09-11 16:14:39 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:14:39 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Narnia
+2024-09-11 16:14:39 INFO  api.StepDefination.GeoStepDefination - API response for postal code Narnia: {"cod":"404","message":"not found"}
+2024-09-11 16:14:39 INFO  api.StepDefination.GeoStepDefination - No location found for: Narnia
+2024-09-11 16:14:39 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:14:39 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 99999
+2024-09-11 16:14:39 INFO  api.StepDefination.GeoStepDefination - Making request for location: 99999
+2024-09-11 16:14:39 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:14:39 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:14:39 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 00000
+2024-09-11 16:14:39 INFO  api.StepDefination.GeoStepDefination - Making request for location: 00000
+2024-09-11 16:14:39 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:14:39 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:14:39 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 88888
+2024-09-11 16:14:39 INFO  api.StepDefination.GeoStepDefination - Making request for location: 88888
+2024-09-11 16:14:39 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:16:10 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:16:10 INFO  api.StepDefination.GeoStepDefination - City name specified: New York
+2024-09-11 16:16:10 INFO  api.StepDefination.GeoStepDefination - Making request for location: New York
+2024-09-11 16:16:12 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"New York County","local_names":{"ja":"ニューヨーク","zh":"纽约/紐約","fa":"نیویورک","hi":"न्यूयॊर्क्","te":"న్యూయొర్క్","uk":"Нью-Йорк","vi":"New York","pt":"Nova Iorque","es":"Nueva York","ko":"뉴욕","it":"New York","be":"Нью-Ёрк","el":"Νέα Υόρκη","ru":"Нью-Йорк","fr":"New York","en":"New York","he":"ניו יורק","de":"New York","oc":"Nòva York","ca":"Nova York","ar":"نيويورك","eo":"Novjorko","cs":"New York","cy":"Efrog Newydd","is":"Nýja Jórvík","gl":"Nova York","pl":"Nowy Jork","kn":"ನ್ಯೂಯೊರ್ಕ್"},"lat":40.7127281,"lon":-74.0060152,"country":"US","state":"New York"}]
+2024-09-11 16:16:12 INFO  api.StepDefination.GeoStepDefination - Received location details for New York: Latitude - 40.712727, Longitude - -74.00601
+2024-09-11 16:16:12 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:16:12 INFO  api.StepDefination.GeoStepDefination - City name specified: Los Angeles
+2024-09-11 16:16:12 INFO  api.StepDefination.GeoStepDefination - Making request for location: Los Angeles
+2024-09-11 16:16:12 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Los Angeles","local_names":{"zh":"洛杉矶","be":"Лос-Анджэлас","it":"Los Angeles","ru":"Лос-Анджелес","ka":"ლოს-ანჯელესი","eo":"Los-Anĝeleso","fa":"لوس آنجلس","sr":"Лос Анђелес","de":"Los Angeles","hi":"लॉस एंजिलस","gl":"Os Ánxeles","fr":"Los Angeles","pt":"Los Angeles","ba":"Лос-Анджелес","mi":"Ngā Ānahera","ta":"லொஸ் ஆஞ்ஜெலெஸ்","uk":"Лос-Анджелес","bn":"লোস আংজেলেস","lv":"Losandželosa","oc":"Los Angeles","ko":"로스앤젤레스","ja":"ロサンゼルス","tt":"Лос-Анджелес","el":"Λος Άντζελες","pl":"Los Angeles","ar":"لوس أنجلس","kn":"ಲೊಸ್ ಆಂಜೆಲೆಸ್","en":"Los Angeles","es":"Los Ángeles","he":"לוס אנג'לס","th":"ลอสแอนเจลิส"},"lat":34.0536909,"lon":-118.242766,"country":"US","state":"California"}]
+2024-09-11 16:16:12 INFO  api.StepDefination.GeoStepDefination - Received location details for Los Angeles: Latitude - 34.05369, Longitude - -118.24277
+2024-09-11 16:16:12 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:16:12 INFO  api.StepDefination.GeoStepDefination - City name specified: San Francisco
+2024-09-11 16:16:12 INFO  api.StepDefination.GeoStepDefination - Making request for location: San Francisco
+2024-09-11 16:16:13 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"San Francisco","local_names":{"sl":"San Francisco","bg":"Сан Франциско","mi":"Hana Paraniko","os":"Сан-Франциско","mg":"San Francisco","ha":"San Francisco","ta":"சான் பிரான்சிஸ்கோ","fo":"San Francisco","oc":"San Francisco","cy":"San Francisco","uz":"San Fransisko","en":"San Francisco","li":"San Francisco","ht":"San Francisco","ga":"San Francisco","fr":"San Francisco","my":"ဆန်ဖရန်စစ္စကိုမြို့","kk":"Сан-Франциско","hr":"San Francisco","yi":"סאן פראנציסקא","fj":"San Francisco","sh":"San Francisco","ce":"Сан-Франциско","io":"San Francisco","ro":"San Francisco","ia":"San Francisco","pt":"São Francisco","gd":"San Francisco","mk":"Сан Франциско","ne":"सान फ्रान्सिस्को","gl":"San Francisco","sc":"San Francisco","yo":"San Francisco","cs":"San Francisco","ln":"San Francisco","ka":"სან-ფრანცისკო","ca":"San Francisco","te":"శాన్ ఫ్రాన్సిస్కో","ty":"San Francisco","nn":"San Francisco","sw":"San Francisco","ml":"സാൻ ഫ്രാൻസിസ്കോ","hu":"San Francisco","ba":"Сан-Франциско","la":"Franciscopolis","sr":"Сан Франциско","jv":"San Francisco","sv":"San Francisco","fa":"سان فرانسیسکو","br":"San Francisco","kw":"San Francisco","sk":"San Francisco","tw":"San Francisco","mn":"Сан-Франциско","lv":"Sanfrancisko","eo":"San-Francisko","am":"ሳን ፍራንሲስኰ","hi":"सैन फ़्रांसिस्को","bo":"སན་ཧྥུ་རན་སིས་ཁོ","es":"San Francisco","cv":"Сан-Франциско","nl":"San Francisco","el":"Σαν Φρανσίσκο","ms":"San Francisco","da":"San Francisco","ko":"샌프란시스코","qu":"San Francisco","fy":"San Francisco","he":"סן פרנסיסקו","it":"San Francisco","zh":"旧金山;舊金山;三藩市","eu":"San Frantzisko","pl":"San Francisco","ug":"San Fransisko","be":"Сан-Францыска","ja":"サンフランシスコ","az":"San-Fransisko","lb":"San Francisco","ki":"San Francisco","pa":"ਸਾਨ ਫ਼ਰਾਂਸਿਸਕੋ","so":"San Fransisko","vi":"Cựu Kim Sơn","id":"San Francisco","fi":"San Francisco","na":"San Francisco","th":"ซานฟรานซิสโก","an":"San Francisco","nv":"Naʼníʼá Hóneezí","is":"San Francisco","ie":"San Francisco","tl":"San Francisco","de":"San Francisco","et":"San Francisco","bn":"সান ফ্রান্সিস্কো","bm":"San Francisco","ky":"Сан-Франциско","co":"San Francisco","ur":"سان فرانسسکو","ku":"San Francisco","no":"San Francisco","tt":"Сан-Франциско","uk":"Сан-Франциско","hy":"Սան Ֆրանցիսկո","mr":"सॅन फ्रान्सिस्को","af":"San Francisco","ar":"سان فرانسيسكو","kn":"ಸಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೊ","ru":"Сан-Франциско","si":"සැන් ෆ්‍රැන්සිස්කෝ","ps":"سان فرانسسکو","bs":"San Francisco","vo":"San Francisco","tr":"San Francisco","lt":"San Fransiskas","sq":"San Francisco","gv":"San Francisco"},"lat":37.7790262,"lon":-122.419906,"country":"US","state":"California"}]
+2024-09-11 16:16:13 INFO  api.StepDefination.GeoStepDefination - Received location details for San Francisco: Latitude - 37.779026, Longitude - -122.41991
+2024-09-11 16:16:13 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:16:13 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 10001
+2024-09-11 16:16:13 INFO  api.StepDefination.GeoStepDefination - API response for postal code 10001: {"zip":"10001","name":"New York","lat":40.7484,"lon":-73.9967,"country":"US"}
+2024-09-11 16:16:13 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 10001: Latitude - 40.7484, Longitude - -73.9967
+2024-09-11 16:16:13 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:16:13 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 90001
+2024-09-11 16:16:13 INFO  api.StepDefination.GeoStepDefination - API response for postal code 90001: {"zip":"90001","name":"Los Angeles County","lat":33.9731,"lon":-118.2479,"country":"US"}
+2024-09-11 16:16:13 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 90001: Latitude - 33.9731, Longitude - -118.2479
+2024-09-11 16:16:13 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:16:13 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 94105
+2024-09-11 16:16:13 INFO  api.StepDefination.GeoStepDefination - API response for postal code 94105: {"zip":"94105","name":"San Francisco","lat":37.7864,"lon":-122.3892,"country":"US"}
+2024-09-11 16:16:13 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 94105: Latitude - 37.7864, Longitude - -122.3892
+2024-09-11 16:16:13 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:16:13 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Atlantis
+2024-09-11 16:16:13 INFO  api.StepDefination.GeoStepDefination - API response for postal code Atlantis: {"cod":"404","message":"not found"}
+2024-09-11 16:16:13 INFO  api.StepDefination.GeoStepDefination - No location found for: Atlantis
+2024-09-11 16:16:13 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:16:13 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Neverland
+2024-09-11 16:16:13 INFO  api.StepDefination.GeoStepDefination - API response for postal code Neverland: {"cod":"404","message":"not found"}
+2024-09-11 16:16:13 INFO  api.StepDefination.GeoStepDefination - No location found for: Neverland
+2024-09-11 16:16:13 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:16:13 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Narnia
+2024-09-11 16:16:13 INFO  api.StepDefination.GeoStepDefination - API response for postal code Narnia: {"cod":"404","message":"not found"}
+2024-09-11 16:16:13 INFO  api.StepDefination.GeoStepDefination - No location found for: Narnia
+2024-09-11 16:16:13 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:16:13 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 9999
+2024-09-11 16:16:13 INFO  api.StepDefination.GeoStepDefination - Making request for location: 9999
+2024-09-11 16:16:14 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:16:14 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:16:14 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 0000
+2024-09-11 16:16:14 INFO  api.StepDefination.GeoStepDefination - Making request for location: 0000
+2024-09-11 16:16:14 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:16:14 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:16:14 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 8888
+2024-09-11 16:16:14 INFO  api.StepDefination.GeoStepDefination - Making request for location: 8888
+2024-09-11 16:16:14 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:20:41 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:20:41 INFO  api.StepDefination.GeoStepDefination - City name specified: New York
+2024-09-11 16:20:41 INFO  api.StepDefination.GeoStepDefination - Making request for location: New York
+2024-09-11 16:20:43 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"New York County","local_names":{"ko":"뉴욕","oc":"Nòva York","eo":"Novjorko","uk":"Нью-Йорк","be":"Нью-Ёрк","en":"New York","gl":"Nova York","zh":"纽约/紐約","fr":"New York","it":"New York","de":"New York","ca":"Nova York","ru":"Нью-Йорк","ar":"نيويورك","ja":"ニューヨーク","el":"Νέα Υόρκη","kn":"ನ್ಯೂಯೊರ್ಕ್","is":"Nýja Jórvík","vi":"New York","es":"Nueva York","te":"న్యూయొర్క్","pt":"Nova Iorque","cy":"Efrog Newydd","fa":"نیویورک","hi":"न्यूयॊर्क्","cs":"New York","pl":"Nowy Jork","he":"ניו יורק"},"lat":40.7127281,"lon":-74.0060152,"country":"US","state":"New York"}]
+2024-09-11 16:20:44 INFO  api.StepDefination.GeoStepDefination - Received location details for New York: Latitude - 40.712727, Longitude - -74.00601
+2024-09-11 16:20:44 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:20:44 INFO  api.StepDefination.GeoStepDefination - City name specified: Los Angeles
+2024-09-11 16:20:44 INFO  api.StepDefination.GeoStepDefination - Making request for location: Los Angeles
+2024-09-11 16:20:44 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Los Angeles","local_names":{"he":"לוס אנג'לס","be":"Лос-Анджэлас","sr":"Лос Анђелес","bn":"লোস আংজেলেস","oc":"Los Angeles","pl":"Los Angeles","de":"Los Angeles","hi":"लॉस एंजिलस","ko":"로스앤젤레스","fr":"Los Angeles","pt":"Los Angeles","ta":"லொஸ் ஆஞ்ஜெலெஸ்","el":"Λος Άντζελες","ar":"لوس أنجلس","mi":"Ngā Ānahera","fa":"لوس آنجلس","kn":"ಲೊಸ್ ಆಂಜೆಲೆಸ್","tt":"Лос-Анджелес","ja":"ロサンゼルス","en":"Los Angeles","gl":"Os Ánxeles","uk":"Лос-Анджелес","th":"ลอสแอนเจลิส","ru":"Лос-Анджелес","ba":"Лос-Анджелес","eo":"Los-Anĝeleso","es":"Los Ángeles","it":"Los Angeles","ka":"ლოს-ანჯელესი","zh":"洛杉矶","lv":"Losandželosa"},"lat":34.0536909,"lon":-118.242766,"country":"US","state":"California"}]
+2024-09-11 16:20:44 INFO  api.StepDefination.GeoStepDefination - Received location details for Los Angeles: Latitude - 34.05369, Longitude - -118.24277
+2024-09-11 16:20:44 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:20:44 INFO  api.StepDefination.GeoStepDefination - City name specified: San Francisco
+2024-09-11 16:20:44 INFO  api.StepDefination.GeoStepDefination - Making request for location: San Francisco
+2024-09-11 16:20:44 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"San Francisco","local_names":{"bn":"সান ফ্রান্সিস্কো","si":"සැන් ෆ්‍රැන්සිස්කෝ","kk":"Сан-Франциско","sh":"San Francisco","bs":"San Francisco","ne":"सान फ्रान्सिस्को","en":"San Francisco","ky":"Сан-Франциско","bo":"སན་ཧྥུ་རན་སིས་ཁོ","tr":"San Francisco","qu":"San Francisco","he":"סן פרנסיסקו","ce":"Сан-Франциско","it":"San Francisco","ml":"സാൻ ഫ്രാൻസിസ്കോ","cy":"San Francisco","fy":"San Francisco","ha":"San Francisco","ie":"San Francisco","gl":"San Francisco","nv":"Naʼníʼá Hóneezí","is":"San Francisco","os":"Сан-Франциско","gv":"San Francisco","et":"San Francisco","pt":"São Francisco","th":"ซานฟรานซิสโก","ku":"San Francisco","cv":"Сан-Франциско","da":"San Francisco","ug":"San Fransisko","sl":"San Francisco","sv":"San Francisco","tw":"San Francisco","fo":"San Francisco","ar":"سان فرانسيسكو","so":"San Fransisko","ms":"San Francisco","zh":"旧金山;舊金山;三藩市","ro":"San Francisco","hu":"San Francisco","ty":"San Francisco","sc":"San Francisco","mn":"Сан-Франциско","uk":"Сан-Франциско","lv":"Sanfrancisko","hi":"सैन फ़्रांसिस्को","gd":"San Francisco","cs":"San Francisco","ps":"سان فرانسسکو","io":"San Francisco","lt":"San Fransiskas","de":"San Francisco","el":"Σαν Φρανσίσκο","ia":"San Francisco","la":"Franciscopolis","fr":"San Francisco","fi":"San Francisco","hr":"San Francisco","ka":"სან-ფრანცისკო","ta":"சான் பிரான்சிஸ்கோ","li":"San Francisco","sk":"San Francisco","id":"San Francisco","mk":"Сан Франциско","hy":"Սան Ֆրանցիսկո","ht":"San Francisco","ki":"San Francisco","na":"San Francisco","jv":"San Francisco","nn":"San Francisco","yi":"סאן פראנציסקא","es":"San Francisco","pl":"San Francisco","kn":"ಸಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೊ","ur":"سان فرانسسکو","mg":"San Francisco","bm":"San Francisco","mr":"सॅन फ्रान्सिस्को","eo":"San-Francisko","my":"ဆန်ဖရန်စစ္စကိုမြို့","no":"San Francisco","br":"San Francisco","sq":"San Francisco","sr":"Сан Франциско","ru":"Сан-Франциско","tt":"Сан-Франциско","vi":"Cựu Kim Sơn","tl":"San Francisco","yo":"San Francisco","pa":"ਸਾਨ ਫ਼ਰਾਂਸਿਸਕੋ","ja":"サンフランシスコ","az":"San-Fransisko","ca":"San Francisco","oc":"San Francisco","lb":"San Francisco","sw":"San Francisco","ko":"샌프란시스코","ba":"Сан-Франциско","uz":"San Fransisko","ln":"San Francisco","vo":"San Francisco","be":"Сан-Францыска","am":"ሳን ፍራንሲስኰ","bg":"Сан Франциско","mi":"Hana Paraniko","nl":"San Francisco","ga":"San Francisco","fa":"سان فرانسیسکو","fj":"San Francisco","eu":"San Frantzisko","af":"San Francisco","te":"శాన్ ఫ్రాన్సిస్కో","an":"San Francisco","kw":"San Francisco","co":"San Francisco"},"lat":37.7790262,"lon":-122.419906,"country":"US","state":"California"}]
+2024-09-11 16:20:45 INFO  api.StepDefination.GeoStepDefination - Received location details for San Francisco: Latitude - 37.779026, Longitude - -122.41991
+2024-09-11 16:20:45 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:20:45 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 10001
+2024-09-11 16:20:45 INFO  api.StepDefination.GeoStepDefination - API response for postal code 10001: {"zip":"10001","name":"New York","lat":40.7484,"lon":-73.9967,"country":"US"}
+2024-09-11 16:20:45 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 10001: Latitude - 40.7484, Longitude - -73.9967
+2024-09-11 16:20:45 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:20:45 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 90001
+2024-09-11 16:20:45 INFO  api.StepDefination.GeoStepDefination - API response for postal code 90001: {"zip":"90001","name":"Los Angeles County","lat":33.9731,"lon":-118.2479,"country":"US"}
+2024-09-11 16:20:45 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 90001: Latitude - 33.9731, Longitude - -118.2479
+2024-09-11 16:20:45 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:20:45 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 94105
+2024-09-11 16:20:45 INFO  api.StepDefination.GeoStepDefination - API response for postal code 94105: {"zip":"94105","name":"San Francisco","lat":37.7864,"lon":-122.3892,"country":"US"}
+2024-09-11 16:20:45 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 94105: Latitude - 37.7864, Longitude - -122.3892
+2024-09-11 16:20:45 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:20:45 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Atlantis
+2024-09-11 16:20:45 INFO  api.StepDefination.GeoStepDefination - API response for postal code Atlantis: {"cod":"404","message":"not found"}
+2024-09-11 16:20:45 INFO  api.StepDefination.GeoStepDefination - No location found for: Atlantis
+2024-09-11 16:20:45 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:20:45 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Neverland
+2024-09-11 16:20:45 INFO  api.StepDefination.GeoStepDefination - API response for postal code Neverland: {"cod":"404","message":"not found"}
+2024-09-11 16:20:45 INFO  api.StepDefination.GeoStepDefination - No location found for: Neverland
+2024-09-11 16:20:45 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:20:45 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Narnia
+2024-09-11 16:20:45 INFO  api.StepDefination.GeoStepDefination - API response for postal code Narnia: {"cod":"404","message":"not found"}
+2024-09-11 16:20:45 INFO  api.StepDefination.GeoStepDefination - No location found for: Narnia
+2024-09-11 16:20:45 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:20:45 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 9999
+2024-09-11 16:20:45 INFO  api.StepDefination.GeoStepDefination - Making request for location: 9999
+2024-09-11 16:20:46 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:20:46 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:20:46 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 0000
+2024-09-11 16:20:46 INFO  api.StepDefination.GeoStepDefination - Making request for location: 0000
+2024-09-11 16:20:46 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:20:46 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:20:46 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 8888
+2024-09-11 16:20:46 INFO  api.StepDefination.GeoStepDefination - Making request for location: 8888
+2024-09-11 16:20:46 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:23:04 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:23:04 INFO  api.StepDefination.GeoStepDefination - City name specified: New York
+2024-09-11 16:23:04 INFO  api.StepDefination.GeoStepDefination - Making request for location: New York
+2024-09-11 16:23:06 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"New York County","local_names":{"en":"New York","cs":"New York","cy":"Efrog Newydd","ja":"ニューヨーク","hi":"न्यूयॊर्क्","it":"New York","uk":"Нью-Йорк","be":"Нью-Ёрк","de":"New York","is":"Nýja Jórvík","eo":"Novjorko","gl":"Nova York","zh":"纽约/紐約","es":"Nueva York","pl":"Nowy Jork","kn":"ನ್ಯೂಯೊರ್ಕ್","vi":"New York","fa":"نیویورک","el":"Νέα Υόρκη","oc":"Nòva York","ar":"نيويورك","fr":"New York","he":"ניו יורק","te":"న్యూయొర్క్","pt":"Nova Iorque","ca":"Nova York","ru":"Нью-Йорк","ko":"뉴욕"},"lat":40.7127281,"lon":-74.0060152,"country":"US","state":"New York"}]
+2024-09-11 16:23:06 INFO  api.StepDefination.GeoStepDefination - Received location details for New York: Latitude - 40.712727, Longitude - -74.00601
+2024-09-11 16:23:06 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:23:06 INFO  api.StepDefination.GeoStepDefination - City name specified: Los Angeles
+2024-09-11 16:23:06 INFO  api.StepDefination.GeoStepDefination - Making request for location: Los Angeles
+2024-09-11 16:23:06 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Los Angeles","local_names":{"de":"Los Angeles","sr":"Лос Анђелес","pl":"Los Angeles","ru":"Лос-Анджелес","pt":"Los Angeles","ba":"Лос-Анджелес","uk":"Лос-Анджелес","it":"Los Angeles","ja":"ロサンゼルス","en":"Los Angeles","ar":"لوس أنجلس","hi":"लॉस एंजिलस","ko":"로스앤젤레스","mi":"Ngā Ānahera","kn":"ಲೊಸ್ ಆಂಜೆಲೆಸ್","th":"ลอสแอนเจลิส","tt":"Лос-Анджелес","be":"Лос-Анджэлас","ta":"லொஸ் ஆஞ்ஜெலெஸ்","bn":"লোস আংজেলেস","el":"Λος Άντζελες","ka":"ლოს-ანჯელესი","es":"Los Ángeles","fr":"Los Angeles","lv":"Losandželosa","fa":"لوس آنجلس","gl":"Os Ánxeles","zh":"洛杉矶","he":"לוס אנג'לס","oc":"Los Angeles","eo":"Los-Anĝeleso"},"lat":34.0536909,"lon":-118.242766,"country":"US","state":"California"}]
+2024-09-11 16:23:06 INFO  api.StepDefination.GeoStepDefination - Received location details for Los Angeles: Latitude - 34.05369, Longitude - -118.24277
+2024-09-11 16:23:06 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:23:06 INFO  api.StepDefination.GeoStepDefination - City name specified: San Francisco
+2024-09-11 16:23:06 INFO  api.StepDefination.GeoStepDefination - Making request for location: San Francisco
+2024-09-11 16:23:06 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"San Francisco","local_names":{"my":"ဆန်ဖရန်စစ္စကိုမြို့","br":"San Francisco","sk":"San Francisco","ht":"San Francisco","ca":"San Francisco","hi":"सैन फ़्रांसिस्को","fr":"San Francisco","oc":"San Francisco","tl":"San Francisco","so":"San Fransisko","tr":"San Francisco","cs":"San Francisco","eo":"San-Francisko","fj":"San Francisco","an":"San Francisco","bg":"Сан Франциско","vi":"Cựu Kim Sơn","kk":"Сан-Франциско","ro":"San Francisco","ki":"San Francisco","be":"Сан-Францыска","fo":"San Francisco","bo":"སན་ཧྥུ་རན་སིས་ཁོ","hy":"Սան Ֆրանցիսկո","cy":"San Francisco","nn":"San Francisco","no":"San Francisco","ie":"San Francisco","ku":"San Francisco","cv":"Сан-Франциско","ja":"サンフランシスコ","mi":"Hana Paraniko","nl":"San Francisco","sl":"San Francisco","hr":"San Francisco","ar":"سان فرانسيسكو","ln":"San Francisco","sc":"San Francisco","he":"סן פרנסיסקו","ha":"San Francisco","uz":"San Fransisko","ms":"San Francisco","mn":"Сан-Франциско","pl":"San Francisco","ps":"سان فرانسسکو","bn":"সান ফ্রান্সিস্কো","pa":"ਸਾਨ ਫ਼ਰਾਂਸਿਸਕੋ","de":"San Francisco","li":"San Francisco","am":"ሳን ፍራንሲስኰ","tw":"San Francisco","sr":"Сан Франциско","fy":"San Francisco","da":"San Francisco","af":"San Francisco","sv":"San Francisco","is":"San Francisco","mk":"Сан Франциско","en":"San Francisco","ky":"Сан-Франциско","gd":"San Francisco","lt":"San Fransiskas","ml":"സാൻ ഫ്രാൻസിസ്കോ","sq":"San Francisco","zh":"旧金山;舊金山;三藩市","ia":"San Francisco","gv":"San Francisco","fi":"San Francisco","nv":"Naʼníʼá Hóneezí","ru":"Сан-Франциско","pt":"São Francisco","el":"Σαν Φρανσίσκο","yo":"San Francisco","eu":"San Frantzisko","la":"Franciscopolis","yi":"סאן פראנציסקא","bs":"San Francisco","si":"සැන් ෆ්‍රැන්සිස්කෝ","hu":"San Francisco","co":"San Francisco","kn":"ಸಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೊ","fa":"سان فرانسیسکو","et":"San Francisco","sw":"San Francisco","tt":"Сан-Франциско","mr":"सॅन फ्रान्सिस्को","ba":"Сан-Франциско","bm":"San Francisco","id":"San Francisco","ty":"San Francisco","qu":"San Francisco","kw":"San Francisco","io":"San Francisco","os":"Сан-Франциско","it":"San Francisco","ne":"सान फ्रान्सिस्को","gl":"San Francisco","te":"శాన్ ఫ్రాన్సిస్కో","ka":"სან-ფრანცისკო","jv":"San Francisco","vo":"San Francisco","ug":"San Fransisko","ko":"샌프란시스코","ce":"Сан-Франциско","az":"San-Fransisko","lb":"San Francisco","lv":"Sanfrancisko","es":"San Francisco","ur":"سان فرانسسکو","na":"San Francisco","sh":"San Francisco","th":"ซานฟรานซิสโก","uk":"Сан-Франциско","mg":"San Francisco","ga":"San Francisco","ta":"சான் பிரான்சிஸ்கோ"},"lat":37.7790262,"lon":-122.419906,"country":"US","state":"California"}]
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - Received location details for San Francisco: Latitude - 37.779026, Longitude - -122.41991
+2024-09-11 16:23:07 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 10001
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - API response for postal code 10001: {"zip":"10001","name":"New York","lat":40.7484,"lon":-73.9967,"country":"US"}
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 10001: Latitude - 40.7484, Longitude - -73.9967
+2024-09-11 16:23:07 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 90001
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - API response for postal code 90001: {"zip":"90001","name":"Los Angeles County","lat":33.9731,"lon":-118.2479,"country":"US"}
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 90001: Latitude - 33.9731, Longitude - -118.2479
+2024-09-11 16:23:07 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 94105
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - API response for postal code 94105: {"zip":"94105","name":"San Francisco","lat":37.7864,"lon":-122.3892,"country":"US"}
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 94105: Latitude - 37.7864, Longitude - -122.3892
+2024-09-11 16:23:07 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Atlantis
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - API response for postal code Atlantis: {"cod":"404","message":"not found"}
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - No location found for: Atlantis
+2024-09-11 16:23:07 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Neverland
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - API response for postal code Neverland: {"cod":"404","message":"not found"}
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - No location found for: Neverland
+2024-09-11 16:23:07 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Narnia
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - API response for postal code Narnia: {"cod":"404","message":"not found"}
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - No location found for: Narnia
+2024-09-11 16:23:07 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 999999
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - Making request for location: 999999
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:23:07 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 000000
+2024-09-11 16:23:07 INFO  api.StepDefination.GeoStepDefination - Making request for location: 000000
+2024-09-11 16:23:08 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:23:08 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:23:08 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 888888
+2024-09-11 16:23:08 INFO  api.StepDefination.GeoStepDefination - Making request for location: 888888
+2024-09-11 16:23:08 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:24:12 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:24:12 INFO  api.StepDefination.GeoStepDefination - City name specified: New York
+2024-09-11 16:24:12 INFO  api.StepDefination.GeoStepDefination - Making request for location: New York
+2024-09-11 16:24:13 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"New York County","local_names":{"en":"New York","cs":"New York","cy":"Efrog Newydd","ja":"ニューヨーク","hi":"न्यूयॊर्क्","it":"New York","uk":"Нью-Йорк","be":"Нью-Ёрк","de":"New York","is":"Nýja Jórvík","eo":"Novjorko","gl":"Nova York","zh":"纽约/紐約","es":"Nueva York","pl":"Nowy Jork","kn":"ನ್ಯೂಯೊರ್ಕ್","vi":"New York","fa":"نیویورک","el":"Νέα Υόρκη","oc":"Nòva York","ar":"نيويورك","fr":"New York","he":"ניו יורק","te":"న్యూయొర్క్","pt":"Nova Iorque","ca":"Nova York","ru":"Нью-Йорк","ko":"뉴욕"},"lat":40.7127281,"lon":-74.0060152,"country":"US","state":"New York"}]
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - Received location details for New York: Latitude - 40.712727, Longitude - -74.00601
+2024-09-11 16:24:14 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - City name specified: Los Angeles
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - Making request for location: Los Angeles
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Los Angeles","local_names":{"de":"Los Angeles","sr":"Лос Анђелес","pl":"Los Angeles","ru":"Лос-Анджелес","pt":"Los Angeles","ba":"Лос-Анджелес","uk":"Лос-Анджелес","it":"Los Angeles","ja":"ロサンゼルス","en":"Los Angeles","ar":"لوس أنجلس","hi":"लॉस एंजिलस","ko":"로스앤젤레스","mi":"Ngā Ānahera","kn":"ಲೊಸ್ ಆಂಜೆಲೆಸ್","th":"ลอสแอนเจลิส","tt":"Лос-Анджелес","be":"Лос-Анджэлас","ta":"லொஸ் ஆஞ்ஜெலெஸ்","bn":"লোস আংজেলেস","el":"Λος Άντζελες","ka":"ლოს-ანჯელესი","es":"Los Ángeles","fr":"Los Angeles","lv":"Losandželosa","fa":"لوس آنجلس","gl":"Os Ánxeles","zh":"洛杉矶","he":"לוס אנג'לס","oc":"Los Angeles","eo":"Los-Anĝeleso"},"lat":34.0536909,"lon":-118.242766,"country":"US","state":"California"}]
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - Received location details for Los Angeles: Latitude - 34.05369, Longitude - -118.24277
+2024-09-11 16:24:14 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - City name specified: San Francisco
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - Making request for location: San Francisco
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"San Francisco","local_names":{"my":"ဆန်ဖရန်စစ္စကိုမြို့","br":"San Francisco","sk":"San Francisco","ht":"San Francisco","ca":"San Francisco","hi":"सैन फ़्रांसिस्को","fr":"San Francisco","oc":"San Francisco","tl":"San Francisco","so":"San Fransisko","tr":"San Francisco","cs":"San Francisco","eo":"San-Francisko","fj":"San Francisco","an":"San Francisco","bg":"Сан Франциско","vi":"Cựu Kim Sơn","kk":"Сан-Франциско","ro":"San Francisco","ki":"San Francisco","be":"Сан-Францыска","fo":"San Francisco","bo":"སན་ཧྥུ་རན་སིས་ཁོ","hy":"Սան Ֆրանցիսկո","cy":"San Francisco","nn":"San Francisco","no":"San Francisco","ie":"San Francisco","ku":"San Francisco","cv":"Сан-Франциско","ja":"サンフランシスコ","mi":"Hana Paraniko","nl":"San Francisco","sl":"San Francisco","hr":"San Francisco","ar":"سان فرانسيسكو","ln":"San Francisco","sc":"San Francisco","he":"סן פרנסיסקו","ha":"San Francisco","uz":"San Fransisko","ms":"San Francisco","mn":"Сан-Франциско","pl":"San Francisco","ps":"سان فرانسسکو","bn":"সান ফ্রান্সিস্কো","pa":"ਸਾਨ ਫ਼ਰਾਂਸਿਸਕੋ","de":"San Francisco","li":"San Francisco","am":"ሳን ፍራንሲስኰ","tw":"San Francisco","sr":"Сан Франциско","fy":"San Francisco","da":"San Francisco","af":"San Francisco","sv":"San Francisco","is":"San Francisco","mk":"Сан Франциско","en":"San Francisco","ky":"Сан-Франциско","gd":"San Francisco","lt":"San Fransiskas","ml":"സാൻ ഫ്രാൻസിസ്കോ","sq":"San Francisco","zh":"旧金山;舊金山;三藩市","ia":"San Francisco","gv":"San Francisco","fi":"San Francisco","nv":"Naʼníʼá Hóneezí","ru":"Сан-Франциско","pt":"São Francisco","el":"Σαν Φρανσίσκο","yo":"San Francisco","eu":"San Frantzisko","la":"Franciscopolis","yi":"סאן פראנציסקא","bs":"San Francisco","si":"සැන් ෆ්‍රැන්සිස්කෝ","hu":"San Francisco","co":"San Francisco","kn":"ಸಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೊ","fa":"سان فرانسیسکو","et":"San Francisco","sw":"San Francisco","tt":"Сан-Франциско","mr":"सॅन फ्रान्सिस्को","ba":"Сан-Франциско","bm":"San Francisco","id":"San Francisco","ty":"San Francisco","qu":"San Francisco","kw":"San Francisco","io":"San Francisco","os":"Сан-Франциско","it":"San Francisco","ne":"सान फ्रान्सिस्को","gl":"San Francisco","te":"శాన్ ఫ్రాన్సిస్కో","ka":"სან-ფრანცისკო","jv":"San Francisco","vo":"San Francisco","ug":"San Fransisko","ko":"샌프란시스코","ce":"Сан-Франциско","az":"San-Fransisko","lb":"San Francisco","lv":"Sanfrancisko","es":"San Francisco","ur":"سان فرانسسکو","na":"San Francisco","sh":"San Francisco","th":"ซานฟรานซิสโก","uk":"Сан-Франциско","mg":"San Francisco","ga":"San Francisco","ta":"சான் பிரான்சிஸ்கோ"},"lat":37.7790262,"lon":-122.419906,"country":"US","state":"California"}]
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - Received location details for San Francisco: Latitude - 37.779026, Longitude - -122.41991
+2024-09-11 16:24:14 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 10001
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - API response for postal code 10001: {"zip":"10001","name":"New York","lat":40.7484,"lon":-73.9967,"country":"US"}
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 10001: Latitude - 40.7484, Longitude - -73.9967
+2024-09-11 16:24:14 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 90001
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - API response for postal code 90001: {"zip":"90001","name":"Los Angeles County","lat":33.9731,"lon":-118.2479,"country":"US"}
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 90001: Latitude - 33.9731, Longitude - -118.2479
+2024-09-11 16:24:14 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 94105
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - API response for postal code 94105: {"zip":"94105","name":"San Francisco","lat":37.7864,"lon":-122.3892,"country":"US"}
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 94105: Latitude - 37.7864, Longitude - -122.3892
+2024-09-11 16:24:14 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Atlantis
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - API response for postal code Atlantis: {"cod":"404","message":"not found"}
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - No location found for: Atlantis
+2024-09-11 16:24:14 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Neverland
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - API response for postal code Neverland: {"cod":"404","message":"not found"}
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - No location found for: Neverland
+2024-09-11 16:24:14 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:24:14 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Narnia
+2024-09-11 16:24:15 INFO  api.StepDefination.GeoStepDefination - API response for postal code Narnia: {"cod":"404","message":"not found"}
+2024-09-11 16:24:15 INFO  api.StepDefination.GeoStepDefination - No location found for: Narnia
+2024-09-11 16:24:15 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:24:15 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 999999
+2024-09-11 16:24:15 INFO  api.StepDefination.GeoStepDefination - Making request for location: 999999
+2024-09-11 16:24:15 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:24:15 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:24:15 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 000000
+2024-09-11 16:24:15 INFO  api.StepDefination.GeoStepDefination - Making request for location: 000000
+2024-09-11 16:24:15 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:24:15 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:24:15 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 888888
+2024-09-11 16:24:15 INFO  api.StepDefination.GeoStepDefination - Making request for location: 888888
+2024-09-11 16:24:15 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:24:15 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:24:15 INFO  api.StepDefination.GeoStepDefination - City name specified: San José
+2024-09-11 16:24:15 INFO  api.StepDefination.GeoStepDefination - Making request for location: San José
+2024-09-11 16:24:15 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"San Jose","local_names":{"zh":"聖荷西","eo":"San-Joseo","uk":"Сан-Хосе","es":"San José","am":"ሳን ሆዜ","pt":"San José","ru":"Сан-Хосе","oc":"San José","gl":"San Xosé","vi":"San Jose","ar":"سان خوسيه","en":"San Jose"},"lat":37.3361663,"lon":-121.890591,"country":"US","state":"California"}]
+2024-09-11 16:24:15 INFO  api.StepDefination.GeoStepDefination - Received location details for San José: Latitude - 37.336166, Longitude - -121.890594
+2024-09-11 16:24:15 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:24:15 INFO  api.StepDefination.GeoStepDefination - City name specified: São Paulo
+2024-09-11 16:24:15 INFO  api.StepDefination.GeoStepDefination - Making request for location: São Paulo
+2024-09-11 16:24:15 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:24:15 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:24:15 INFO  api.StepDefination.GeoStepDefination - City name specified: Montréal
+2024-09-11 16:24:15 INFO  api.StepDefination.GeoStepDefination - Making request for location: Montréal
+2024-09-11 16:24:15 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Montreal","lat":37.9689254,"lon":-92.5921247,"country":"US","state":"Missouri"}]
+2024-09-11 16:24:15 INFO  api.StepDefination.GeoStepDefination - Received location details for Montréal: Latitude - 37.968925, Longitude - -92.592125
+2024-09-11 16:27:23 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:27:23 INFO  api.StepDefination.GeoStepDefination - City name specified: New York
+2024-09-11 16:27:23 INFO  api.StepDefination.GeoStepDefination - Making request for location: New York
+2024-09-11 16:27:24 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"New York County","local_names":{"en":"New York","cs":"New York","cy":"Efrog Newydd","ja":"ニューヨーク","hi":"न्यूयॊर्क्","it":"New York","uk":"Нью-Йорк","be":"Нью-Ёрк","de":"New York","is":"Nýja Jórvík","eo":"Novjorko","gl":"Nova York","zh":"纽约/紐約","es":"Nueva York","pl":"Nowy Jork","kn":"ನ್ಯೂಯೊರ್ಕ್","vi":"New York","fa":"نیویورک","el":"Νέα Υόρκη","oc":"Nòva York","ar":"نيويورك","fr":"New York","he":"ניו יורק","te":"న్యూయొర్క్","pt":"Nova Iorque","ca":"Nova York","ru":"Нью-Йорк","ko":"뉴욕"},"lat":40.7127281,"lon":-74.0060152,"country":"US","state":"New York"}]
+2024-09-11 16:27:25 INFO  api.StepDefination.GeoStepDefination - Received location details for New York: Latitude - 40.712727, Longitude - -74.00601
+2024-09-11 16:27:25 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:27:25 INFO  api.StepDefination.GeoStepDefination - City name specified: Los Angeles
+2024-09-11 16:27:25 INFO  api.StepDefination.GeoStepDefination - Making request for location: Los Angeles
+2024-09-11 16:27:25 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Los Angeles","local_names":{"de":"Los Angeles","sr":"Лос Анђелес","pl":"Los Angeles","ru":"Лос-Анджелес","pt":"Los Angeles","ba":"Лос-Анджелес","uk":"Лос-Анджелес","it":"Los Angeles","ja":"ロサンゼルス","en":"Los Angeles","ar":"لوس أنجلس","hi":"लॉस एंजिलस","ko":"로스앤젤레스","mi":"Ngā Ānahera","kn":"ಲೊಸ್ ಆಂಜೆಲೆಸ್","th":"ลอสแอนเจลิส","tt":"Лос-Анджелес","be":"Лос-Анджэлас","ta":"லொஸ் ஆஞ்ஜெலெஸ்","bn":"লোস আংজেলেস","el":"Λος Άντζελες","ka":"ლოს-ანჯელესი","es":"Los Ángeles","fr":"Los Angeles","lv":"Losandželosa","fa":"لوس آنجلس","gl":"Os Ánxeles","zh":"洛杉矶","he":"לוס אנג'לס","oc":"Los Angeles","eo":"Los-Anĝeleso"},"lat":34.0536909,"lon":-118.242766,"country":"US","state":"California"}]
+2024-09-11 16:27:25 INFO  api.StepDefination.GeoStepDefination - Received location details for Los Angeles: Latitude - 34.05369, Longitude - -118.24277
+2024-09-11 16:27:25 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:27:25 INFO  api.StepDefination.GeoStepDefination - City name specified: San Francisco
+2024-09-11 16:27:25 INFO  api.StepDefination.GeoStepDefination - Making request for location: San Francisco
+2024-09-11 16:27:25 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"San Francisco","local_names":{"my":"ဆန်ဖရန်စစ္စကိုမြို့","br":"San Francisco","sk":"San Francisco","ht":"San Francisco","ca":"San Francisco","hi":"सैन फ़्रांसिस्को","fr":"San Francisco","oc":"San Francisco","tl":"San Francisco","so":"San Fransisko","tr":"San Francisco","cs":"San Francisco","eo":"San-Francisko","fj":"San Francisco","an":"San Francisco","bg":"Сан Франциско","vi":"Cựu Kim Sơn","kk":"Сан-Франциско","ro":"San Francisco","ki":"San Francisco","be":"Сан-Францыска","fo":"San Francisco","bo":"སན་ཧྥུ་རན་སིས་ཁོ","hy":"Սան Ֆրանցիսկո","cy":"San Francisco","nn":"San Francisco","no":"San Francisco","ie":"San Francisco","ku":"San Francisco","cv":"Сан-Франциско","ja":"サンフランシスコ","mi":"Hana Paraniko","nl":"San Francisco","sl":"San Francisco","hr":"San Francisco","ar":"سان فرانسيسكو","ln":"San Francisco","sc":"San Francisco","he":"סן פרנסיסקו","ha":"San Francisco","uz":"San Fransisko","ms":"San Francisco","mn":"Сан-Франциско","pl":"San Francisco","ps":"سان فرانسسکو","bn":"সান ফ্রান্সিস্কো","pa":"ਸਾਨ ਫ਼ਰਾਂਸਿਸਕੋ","de":"San Francisco","li":"San Francisco","am":"ሳን ፍራንሲስኰ","tw":"San Francisco","sr":"Сан Франциско","fy":"San Francisco","da":"San Francisco","af":"San Francisco","sv":"San Francisco","is":"San Francisco","mk":"Сан Франциско","en":"San Francisco","ky":"Сан-Франциско","gd":"San Francisco","lt":"San Fransiskas","ml":"സാൻ ഫ്രാൻസിസ്കോ","sq":"San Francisco","zh":"旧金山;舊金山;三藩市","ia":"San Francisco","gv":"San Francisco","fi":"San Francisco","nv":"Naʼníʼá Hóneezí","ru":"Сан-Франциско","pt":"São Francisco","el":"Σαν Φρανσίσκο","yo":"San Francisco","eu":"San Frantzisko","la":"Franciscopolis","yi":"סאן פראנציסקא","bs":"San Francisco","si":"සැන් ෆ්‍රැන්සිස්කෝ","hu":"San Francisco","co":"San Francisco","kn":"ಸಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೊ","fa":"سان فرانسیسکو","et":"San Francisco","sw":"San Francisco","tt":"Сан-Франциско","mr":"सॅन फ्रान्सिस्को","ba":"Сан-Франциско","bm":"San Francisco","id":"San Francisco","ty":"San Francisco","qu":"San Francisco","kw":"San Francisco","io":"San Francisco","os":"Сан-Франциско","it":"San Francisco","ne":"सान फ्रान्सिस्को","gl":"San Francisco","te":"శాన్ ఫ్రాన్సిస్కో","ka":"სან-ფრანცისკო","jv":"San Francisco","vo":"San Francisco","ug":"San Fransisko","ko":"샌프란시스코","ce":"Сан-Франциско","az":"San-Fransisko","lb":"San Francisco","lv":"Sanfrancisko","es":"San Francisco","ur":"سان فرانسسکو","na":"San Francisco","sh":"San Francisco","th":"ซานฟรานซิสโก","uk":"Сан-Франциско","mg":"San Francisco","ga":"San Francisco","ta":"சான் பிரான்சிஸ்கோ"},"lat":37.7790262,"lon":-122.419906,"country":"US","state":"California"}]
+2024-09-11 16:27:25 INFO  api.StepDefination.GeoStepDefination - Received location details for San Francisco: Latitude - 37.779026, Longitude - -122.41991
+2024-09-11 16:27:25 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:27:25 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 10001
+2024-09-11 16:27:25 INFO  api.StepDefination.GeoStepDefination - API response for postal code 10001: {"zip":"10001","name":"New York","lat":40.7484,"lon":-73.9967,"country":"US"}
+2024-09-11 16:27:25 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 10001: Latitude - 40.7484, Longitude - -73.9967
+2024-09-11 16:27:25 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:27:25 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 90001
+2024-09-11 16:27:25 INFO  api.StepDefination.GeoStepDefination - API response for postal code 90001: {"zip":"90001","name":"Los Angeles County","lat":33.9731,"lon":-118.2479,"country":"US"}
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 90001: Latitude - 33.9731, Longitude - -118.2479
+2024-09-11 16:27:26 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 94105
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - API response for postal code 94105: {"zip":"94105","name":"San Francisco","lat":37.7864,"lon":-122.3892,"country":"US"}
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 94105: Latitude - 37.7864, Longitude - -122.3892
+2024-09-11 16:27:26 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Atlantis
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - API response for postal code Atlantis: {"cod":"404","message":"not found"}
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - No location found for: Atlantis
+2024-09-11 16:27:26 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Neverland
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - API response for postal code Neverland: {"cod":"404","message":"not found"}
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - No location found for: Neverland
+2024-09-11 16:27:26 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Narnia
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - API response for postal code Narnia: {"cod":"404","message":"not found"}
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - No location found for: Narnia
+2024-09-11 16:27:26 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 999999
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - Making request for location: 999999
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:27:26 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 000000
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - Making request for location: 000000
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:27:26 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 888888
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - Making request for location: 888888
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:27:26 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - City name specified: San José
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - Making request for location: San José
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"San Jose","local_names":{"zh":"聖荷西","eo":"San-Joseo","uk":"Сан-Хосе","es":"San José","am":"ሳን ሆዜ","pt":"San José","ru":"Сан-Хосе","oc":"San José","gl":"San Xosé","vi":"San Jose","ar":"سان خوسيه","en":"San Jose"},"lat":37.3361663,"lon":-121.890591,"country":"US","state":"California"}]
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - Received location details for San José: Latitude - 37.336166, Longitude - -121.890594
+2024-09-11 16:27:26 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - City name specified: São Paulo
+2024-09-11 16:27:26 INFO  api.StepDefination.GeoStepDefination - Making request for location: São Paulo
+2024-09-11 16:27:27 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:27:27 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:27:27 INFO  api.StepDefination.GeoStepDefination - City name specified: Montréal
+2024-09-11 16:27:27 INFO  api.StepDefination.GeoStepDefination - Making request for location: Montréal
+2024-09-11 16:27:27 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Montreal","lat":37.9689254,"lon":-92.5921247,"country":"US","state":"Missouri"}]
+2024-09-11 16:27:27 INFO  api.StepDefination.GeoStepDefination - Received location details for Montréal: Latitude - 37.968925, Longitude - -92.592125
+2024-09-11 16:27:27 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:27:27 INFO  api.StepDefination.GeoStepDefination - City name specified: Springfield
+2024-09-11 16:27:27 INFO  api.StepDefination.GeoStepDefination - Making request for location: Springfield
+2024-09-11 16:27:27 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Springfield","local_names":{"uk":"Спрингфілд","en":"Springfield","lt":"Springfildas","pl":"Springfield","ru":"Спрингфилд","ta":"ஸ்பிரிங்ஃபீல்ட்"},"lat":39.7990175,"lon":-89.6439575,"country":"US","state":"Illinois"}]
+2024-09-11 16:27:27 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:27:27 INFO  api.StepDefination.GeoStepDefination - City name specified: Greenville
+2024-09-11 16:27:27 INFO  api.StepDefination.GeoStepDefination - Making request for location: Greenville
+2024-09-11 16:27:27 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Greenville","local_names":{"ru":"Гринвилл","en":"Greenville"},"lat":34.851354,"lon":-82.3984882,"country":"US","state":"South Carolina"}]
+2024-09-11 16:27:27 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:27:27 INFO  api.StepDefination.GeoStepDefination - City name specified: Jackson
+2024-09-11 16:27:27 INFO  api.StepDefination.GeoStepDefination - Making request for location: Jackson
+2024-09-11 16:27:27 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Jackson","local_names":{"en":"Jackson","pl":"Jackson","ru":"Джэксон","ta":"ஜாக்சன்","uk":"Джексон"},"lat":32.3086744,"lon":-90.1983063,"country":"US","state":"Mississippi"}]
+2024-09-11 16:50:33 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:50:33 INFO  api.StepDefination.GeoStepDefination - City name specified: New York
+2024-09-11 16:50:33 INFO  api.StepDefination.GeoStepDefination - Making request for location: New York
+2024-09-11 16:50:35 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"New York County","local_names":{"ja":"ニューヨーク","pt":"Nova Iorque","pl":"Nowy Jork","uk":"Нью-Йорк","gl":"Nova York","fa":"نیویورک","te":"న్యూయొర్క్","ru":"Нью-Йорк","ar":"نيويورك","be":"Нью-Ёрк","el":"Νέα Υόρκη","cy":"Efrog Newydd","ko":"뉴욕","eo":"Novjorko","it":"New York","es":"Nueva York","de":"New York","zh":"纽约/紐約","he":"ניו יורק","fr":"New York","vi":"New York","en":"New York","cs":"New York","oc":"Nòva York","ca":"Nova York","is":"Nýja Jórvík","hi":"न्यूयॊर्क्","kn":"ನ್ಯೂಯೊರ್ಕ್"},"lat":40.7127281,"lon":-74.0060152,"country":"US","state":"New York"}]
+2024-09-11 16:50:36 INFO  api.StepDefination.GeoStepDefination - Received location details for New York: Latitude - 40.712727, Longitude - -74.00601
+2024-09-11 16:50:36 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:50:36 INFO  api.StepDefination.GeoStepDefination - City name specified: Los Angeles
+2024-09-11 16:50:36 INFO  api.StepDefination.GeoStepDefination - Making request for location: Los Angeles
+2024-09-11 16:50:36 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Los Angeles","local_names":{"th":"ลอสแอนเจลิส","ka":"ლოს-ანჯელესი","be":"Лос-Анджэлас","es":"Los Ángeles","fr":"Los Angeles","ta":"லொஸ் ஆஞ்ஜெலெஸ்","gl":"Os Ánxeles","he":"לוס אנג'לס","oc":"Los Angeles","mi":"Ngā Ānahera","ja":"ロサンゼルス","sr":"Лос Анђелес","uk":"Лос-Анджелес","it":"Los Angeles","pl":"Los Angeles","ru":"Лос-Анджелес","de":"Los Angeles","kn":"ಲೊಸ್ ಆಂಜೆಲೆಸ್","en":"Los Angeles","pt":"Los Angeles","ko":"로스앤젤레스","tt":"Лос-Анджелес","el":"Λος Άντζελες","bn":"লোস আংজেলেস","hi":"लॉस एंजिलस","eo":"Los-Anĝeleso","zh":"洛杉矶","ba":"Лос-Анджелес","lv":"Losandželosa","fa":"لوس آنجلس","ar":"لوس أنجلس"},"lat":34.0536909,"lon":-118.242766,"country":"US","state":"California"}]
+2024-09-11 16:50:36 INFO  api.StepDefination.GeoStepDefination - Received location details for Los Angeles: Latitude - 34.05369, Longitude - -118.24277
+2024-09-11 16:50:36 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:50:36 INFO  api.StepDefination.GeoStepDefination - City name specified: San Francisco
+2024-09-11 16:50:36 INFO  api.StepDefination.GeoStepDefination - Making request for location: San Francisco
+2024-09-11 16:50:36 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"San Francisco","local_names":{"gv":"San Francisco","et":"San Francisco","hi":"सैन फ़्रांसिस्को","it":"San Francisco","na":"San Francisco","te":"శాన్ ఫ్రాన్సిస్కో","mr":"सॅन फ्रान्सिस्को","pa":"ਸਾਨ ਫ਼ਰਾਂਸਿਸਕੋ","br":"San Francisco","ta":"சான் பிரான்சிஸ்கோ","ne":"सान फ्रान्सिस्को","ur":"سان فرانسسکو","sc":"San Francisco","ml":"സാൻ ഫ്രാൻസിസ്കോ","bm":"San Francisco","pl":"San Francisco","ce":"Сан-Франциско","da":"San Francisco","az":"San-Fransisko","ps":"سان فرانسسکو","fa":"سان فرانسیسکو","bg":"Сан Франциско","cy":"San Francisco","gl":"San Francisco","fi":"San Francisco","el":"Σαν Φρανσίσκο","ar":"سان فرانسيسكو","tt":"Сан-Франциско","eu":"San Frantzisko","ms":"San Francisco","qu":"San Francisco","ia":"San Francisco","ka":"სან-ფრანცისკო","ug":"San Fransisko","mg":"San Francisco","tr":"San Francisco","hr":"San Francisco","ca":"San Francisco","si":"සැන් ෆ්‍රැන්සිස්කෝ","li":"San Francisco","io":"San Francisco","hu":"San Francisco","uk":"Сан-Франциско","yi":"סאן פראנציסקא","an":"San Francisco","nv":"Naʼníʼá Hóneezí","ie":"San Francisco","ro":"San Francisco","en":"San Francisco","ky":"Сан-Франциско","ku":"San Francisco","lt":"San Fransiskas","sv":"San Francisco","bo":"སན་ཧྥུ་རན་སིས་ཁོ","yo":"San Francisco","hy":"Սան Ֆրանցիսկո","fo":"San Francisco","ha":"San Francisco","de":"San Francisco","my":"ဆန်ဖရန်စစ္စကိုမြို့","bn":"সান ফ্রান্সিস্কো","lv":"Sanfrancisko","tw":"San Francisco","is":"San Francisco","mi":"Hana Paraniko","sh":"San Francisco","mk":"Сан Франциско","af":"San Francisco","ko":"샌프란시스코","oc":"San Francisco","ru":"Сан-Франциско","ga":"San Francisco","es":"San Francisco","ty":"San Francisco","pt":"São Francisco","la":"Franciscopolis","he":"סן פרנסיסקו","cv":"Сан-Франциско","sk":"San Francisco","bs":"San Francisco","tl":"San Francisco","os":"Сан-Франциско","gd":"San Francisco","lb":"San Francisco","zh":"旧金山;舊金山;三藩市","ki":"San Francisco","sr":"Сан Франциско","fr":"San Francisco","sl":"San Francisco","so":"San Fransisko","sw":"San Francisco","be":"Сан-Францыска","nl":"San Francisco","no":"San Francisco","vi":"Cựu Kim Sơn","ja":"サンフランシスコ","fj":"San Francisco","cs":"San Francisco","am":"ሳን ፍራንሲስኰ","th":"ซานฟรานซิสโก","ht":"San Francisco","kn":"ಸಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೊ","id":"San Francisco","ba":"Сан-Франциско","fy":"San Francisco","co":"San Francisco","kw":"San Francisco","sq":"San Francisco","kk":"Сан-Франциско","uz":"San Fransisko","jv":"San Francisco","ln":"San Francisco","vo":"San Francisco","eo":"San-Francisko","mn":"Сан-Франциско","nn":"San Francisco"},"lat":37.7790262,"lon":-122.419906,"country":"US","state":"California"}]
+2024-09-11 16:50:36 INFO  api.StepDefination.GeoStepDefination - Received location details for San Francisco: Latitude - 37.779026, Longitude - -122.41991
+2024-09-11 16:50:36 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:50:36 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 10001
+2024-09-11 16:50:37 INFO  api.StepDefination.GeoStepDefination - API response for postal code 10001: {"zip":"10001","name":"New York","lat":40.7484,"lon":-73.9967,"country":"US"}
+2024-09-11 16:50:37 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 10001: Latitude - 40.7484, Longitude - -73.9967
+2024-09-11 16:50:37 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:50:37 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 90001
+2024-09-11 16:50:37 INFO  api.StepDefination.GeoStepDefination - API response for postal code 90001: {"zip":"90001","name":"Los Angeles County","lat":33.9731,"lon":-118.2479,"country":"US"}
+2024-09-11 16:50:37 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 90001: Latitude - 33.9731, Longitude - -118.2479
+2024-09-11 16:50:37 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:50:37 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 94105
+2024-09-11 16:50:37 INFO  api.StepDefination.GeoStepDefination - API response for postal code 94105: {"zip":"94105","name":"San Francisco","lat":37.7864,"lon":-122.3892,"country":"US"}
+2024-09-11 16:50:37 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 94105: Latitude - 37.7864, Longitude - -122.3892
+2024-09-11 16:50:37 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:50:37 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Atlantis
+2024-09-11 16:50:37 INFO  api.StepDefination.GeoStepDefination - API response for postal code Atlantis: {"cod":"404","message":"not found"}
+2024-09-11 16:50:37 INFO  api.StepDefination.GeoStepDefination - No location found for: Atlantis
+2024-09-11 16:50:37 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:50:37 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Neverland
+2024-09-11 16:50:37 INFO  api.StepDefination.GeoStepDefination - API response for postal code Neverland: {"cod":"404","message":"not found"}
+2024-09-11 16:50:37 INFO  api.StepDefination.GeoStepDefination - No location found for: Neverland
+2024-09-11 16:50:37 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:50:37 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Narnia
+2024-09-11 16:50:37 INFO  api.StepDefination.GeoStepDefination - API response for postal code Narnia: {"cod":"404","message":"not found"}
+2024-09-11 16:50:37 INFO  api.StepDefination.GeoStepDefination - No location found for: Narnia
+2024-09-11 16:50:37 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:50:37 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 999999
+2024-09-11 16:50:37 INFO  api.StepDefination.GeoStepDefination - Making request for location: 999999
+2024-09-11 16:50:37 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:50:37 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:50:37 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 000000
+2024-09-11 16:50:37 INFO  api.StepDefination.GeoStepDefination - Making request for location: 000000
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:50:38 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 888888
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - Making request for location: 888888
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:50:38 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - City name specified: San José
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - Making request for location: San José
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"San Jose","local_names":{"pt":"San José","oc":"San José","eo":"San-Joseo","vi":"San Jose","uk":"Сан-Хосе","es":"San José","en":"San Jose","ru":"Сан-Хосе","gl":"San Xosé","ar":"سان خوسيه","am":"ሳን ሆዜ","zh":"聖荷西"},"lat":37.3361663,"lon":-121.890591,"country":"US","state":"California"}]
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - Received location details for San José: Latitude - 37.336166, Longitude - -121.890594
+2024-09-11 16:50:38 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - City name specified: São Paulo
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - Making request for location: São Paulo
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:50:38 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - City name specified: Montréal
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - Making request for location: Montréal
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Montreal","lat":37.9689254,"lon":-92.5921247,"country":"US","state":"Missouri"}]
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - Received location details for Montréal: Latitude - 37.968925, Longitude - -92.592125
+2024-09-11 16:50:38 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - City name specified: Springfield
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - Making request for location: Springfield
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Springfield","local_names":{"ta":"ஸ்பிரிங்ஃபீல்ட்","uk":"Спрингфілд","en":"Springfield","lt":"Springfildas","pl":"Springfield","ru":"Спрингфилд"},"lat":39.7990175,"lon":-89.6439575,"country":"US","state":"Illinois"}]
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - Received location details for the first match of Springfield: Latitude - 39.79902, Longitude - -89.64396
+2024-09-11 16:50:38 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - City name specified: Greenville
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - Making request for location: Greenville
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Greenville","local_names":{"ru":"Гринвилл","en":"Greenville"},"lat":34.851354,"lon":-82.3984882,"country":"US","state":"South Carolina"}]
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - Received location details for the first match of Greenville: Latitude - 34.851353, Longitude - -82.39849
+2024-09-11 16:50:38 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - City name specified: Jackson
+2024-09-11 16:50:38 INFO  api.StepDefination.GeoStepDefination - Making request for location: Jackson
+2024-09-11 16:50:39 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Jackson","local_names":{"en":"Jackson","pl":"Jackson","ru":"Джэксон","ta":"ஜாக்சன்","uk":"Джексон"},"lat":32.3086744,"lon":-90.1983063,"country":"US","state":"Mississippi"}]
+2024-09-11 16:50:39 INFO  api.StepDefination.GeoStepDefination - Received location details for the first match of Jackson: Latitude - 32.308674, Longitude - -90.1983
+2024-09-11 16:54:15 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:54:15 INFO  api.StepDefination.GeoStepDefination - City name specified: New York
+2024-09-11 16:54:15 INFO  api.StepDefination.GeoStepDefination - Making request for location: New York
+2024-09-11 16:54:17 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"New York County","local_names":{"ja":"ニューヨーク","pt":"Nova Iorque","pl":"Nowy Jork","uk":"Нью-Йорк","gl":"Nova York","fa":"نیویورک","te":"న్యూయొర్క్","ru":"Нью-Йорк","ar":"نيويورك","be":"Нью-Ёрк","el":"Νέα Υόρκη","cy":"Efrog Newydd","ko":"뉴욕","eo":"Novjorko","it":"New York","es":"Nueva York","de":"New York","zh":"纽约/紐約","he":"ניו יורק","fr":"New York","vi":"New York","en":"New York","cs":"New York","oc":"Nòva York","ca":"Nova York","is":"Nýja Jórvík","hi":"न्यूयॊर्क्","kn":"ನ್ಯೂಯೊರ್ಕ್"},"lat":40.7127281,"lon":-74.0060152,"country":"US","state":"New York"}]
+2024-09-11 16:54:18 INFO  api.StepDefination.GeoStepDefination - Received location details for New York: Latitude - 40.712727, Longitude - -74.00601
+2024-09-11 16:54:18 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:54:18 INFO  api.StepDefination.GeoStepDefination - City name specified: Los Angeles
+2024-09-11 16:54:18 INFO  api.StepDefination.GeoStepDefination - Making request for location: Los Angeles
+2024-09-11 16:54:18 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Los Angeles","local_names":{"th":"ลอสแอนเจลิส","ka":"ლოს-ანჯელესი","be":"Лос-Анджэлас","es":"Los Ángeles","fr":"Los Angeles","ta":"லொஸ் ஆஞ்ஜெலெஸ்","gl":"Os Ánxeles","he":"לוס אנג'לס","oc":"Los Angeles","mi":"Ngā Ānahera","ja":"ロサンゼルス","sr":"Лос Анђелес","uk":"Лос-Анджелес","it":"Los Angeles","pl":"Los Angeles","ru":"Лос-Анджелес","de":"Los Angeles","kn":"ಲೊಸ್ ಆಂಜೆಲೆಸ್","en":"Los Angeles","pt":"Los Angeles","ko":"로스앤젤레스","tt":"Лос-Анджелес","el":"Λος Άντζελες","bn":"লোস আংজেলেস","hi":"लॉस एंजिलस","eo":"Los-Anĝeleso","zh":"洛杉矶","ba":"Лос-Анджелес","lv":"Losandželosa","fa":"لوس آنجلس","ar":"لوس أنجلس"},"lat":34.0536909,"lon":-118.242766,"country":"US","state":"California"}]
+2024-09-11 16:54:18 INFO  api.StepDefination.GeoStepDefination - Received location details for Los Angeles: Latitude - 34.05369, Longitude - -118.24277
+2024-09-11 16:54:18 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:54:18 INFO  api.StepDefination.GeoStepDefination - City name specified: San Francisco
+2024-09-11 16:54:18 INFO  api.StepDefination.GeoStepDefination - Making request for location: San Francisco
+2024-09-11 16:54:18 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"San Francisco","local_names":{"gv":"San Francisco","et":"San Francisco","hi":"सैन फ़्रांसिस्को","it":"San Francisco","na":"San Francisco","te":"శాన్ ఫ్రాన్సిస్కో","mr":"सॅन फ्रान्सिस्को","pa":"ਸਾਨ ਫ਼ਰਾਂਸਿਸਕੋ","br":"San Francisco","ta":"சான் பிரான்சிஸ்கோ","ne":"सान फ्रान्सिस्को","ur":"سان فرانسسکو","sc":"San Francisco","ml":"സാൻ ഫ്രാൻസിസ്കോ","bm":"San Francisco","pl":"San Francisco","ce":"Сан-Франциско","da":"San Francisco","az":"San-Fransisko","ps":"سان فرانسسکو","fa":"سان فرانسیسکو","bg":"Сан Франциско","cy":"San Francisco","gl":"San Francisco","fi":"San Francisco","el":"Σαν Φρανσίσκο","ar":"سان فرانسيسكو","tt":"Сан-Франциско","eu":"San Frantzisko","ms":"San Francisco","qu":"San Francisco","ia":"San Francisco","ka":"სან-ფრანცისკო","ug":"San Fransisko","mg":"San Francisco","tr":"San Francisco","hr":"San Francisco","ca":"San Francisco","si":"සැන් ෆ්‍රැන්සිස්කෝ","li":"San Francisco","io":"San Francisco","hu":"San Francisco","uk":"Сан-Франциско","yi":"סאן פראנציסקא","an":"San Francisco","nv":"Naʼníʼá Hóneezí","ie":"San Francisco","ro":"San Francisco","en":"San Francisco","ky":"Сан-Франциско","ku":"San Francisco","lt":"San Fransiskas","sv":"San Francisco","bo":"སན་ཧྥུ་རན་སིས་ཁོ","yo":"San Francisco","hy":"Սան Ֆրանցիսկո","fo":"San Francisco","ha":"San Francisco","de":"San Francisco","my":"ဆန်ဖရန်စစ္စကိုမြို့","bn":"সান ফ্রান্সিস্কো","lv":"Sanfrancisko","tw":"San Francisco","is":"San Francisco","mi":"Hana Paraniko","sh":"San Francisco","mk":"Сан Франциско","af":"San Francisco","ko":"샌프란시스코","oc":"San Francisco","ru":"Сан-Франциско","ga":"San Francisco","es":"San Francisco","ty":"San Francisco","pt":"São Francisco","la":"Franciscopolis","he":"סן פרנסיסקו","cv":"Сан-Франциско","sk":"San Francisco","bs":"San Francisco","tl":"San Francisco","os":"Сан-Франциско","gd":"San Francisco","lb":"San Francisco","zh":"旧金山;舊金山;三藩市","ki":"San Francisco","sr":"Сан Франциско","fr":"San Francisco","sl":"San Francisco","so":"San Fransisko","sw":"San Francisco","be":"Сан-Францыска","nl":"San Francisco","no":"San Francisco","vi":"Cựu Kim Sơn","ja":"サンフランシスコ","fj":"San Francisco","cs":"San Francisco","am":"ሳን ፍራንሲስኰ","th":"ซานฟรานซิสโก","ht":"San Francisco","kn":"ಸಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೊ","id":"San Francisco","ba":"Сан-Франциско","fy":"San Francisco","co":"San Francisco","kw":"San Francisco","sq":"San Francisco","kk":"Сан-Франциско","uz":"San Fransisko","jv":"San Francisco","ln":"San Francisco","vo":"San Francisco","eo":"San-Francisko","mn":"Сан-Франциско","nn":"San Francisco"},"lat":37.7790262,"lon":-122.419906,"country":"US","state":"California"}]
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - Received location details for San Francisco: Latitude - 37.779026, Longitude - -122.41991
+2024-09-11 16:54:19 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 10001
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - API response for postal code 10001: {"zip":"10001","name":"New York","lat":40.7484,"lon":-73.9967,"country":"US"}
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 10001: Latitude - 40.7484, Longitude - -73.9967
+2024-09-11 16:54:19 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 90001
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - API response for postal code 90001: {"zip":"90001","name":"Los Angeles County","lat":33.9731,"lon":-118.2479,"country":"US"}
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 90001: Latitude - 33.9731, Longitude - -118.2479
+2024-09-11 16:54:19 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 94105
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - API response for postal code 94105: {"zip":"94105","name":"San Francisco","lat":37.7864,"lon":-122.3892,"country":"US"}
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 94105: Latitude - 37.7864, Longitude - -122.3892
+2024-09-11 16:54:19 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Atlantis
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - API response for postal code Atlantis: {"cod":"404","message":"not found"}
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - No location found for: Atlantis
+2024-09-11 16:54:19 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Neverland
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - API response for postal code Neverland: {"cod":"404","message":"not found"}
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - No location found for: Neverland
+2024-09-11 16:54:19 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Narnia
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - API response for postal code Narnia: {"cod":"404","message":"not found"}
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - No location found for: Narnia
+2024-09-11 16:54:19 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 999999
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - Making request for location: 999999
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:54:19 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 000000
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - Making request for location: 000000
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:54:19 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 888888
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - Making request for location: 888888
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:54:19 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - City name specified: San José
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - Making request for location: San José
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"San Jose","local_names":{"pt":"San José","oc":"San José","eo":"San-Joseo","vi":"San Jose","uk":"Сан-Хосе","es":"San José","en":"San Jose","ru":"Сан-Хосе","gl":"San Xosé","ar":"سان خوسيه","am":"ሳን ሆዜ","zh":"聖荷西"},"lat":37.3361663,"lon":-121.890591,"country":"US","state":"California"}]
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - Received location details for San José: Latitude - 37.336166, Longitude - -121.890594
+2024-09-11 16:54:19 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - City name specified: São Paulo
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - Making request for location: São Paulo
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-11 16:54:19 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - City name specified: Montréal
+2024-09-11 16:54:19 INFO  api.StepDefination.GeoStepDefination - Making request for location: Montréal
+2024-09-11 16:54:20 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Montreal","lat":37.9689254,"lon":-92.5921247,"country":"US","state":"Missouri"}]
+2024-09-11 16:54:20 INFO  api.StepDefination.GeoStepDefination - Received location details for Montréal: Latitude - 37.968925, Longitude - -92.592125
+2024-09-11 16:54:20 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:54:20 INFO  api.StepDefination.GeoStepDefination - City name specified: Springfield
+2024-09-11 16:54:20 INFO  api.StepDefination.GeoStepDefination - Making request for location: Springfield
+2024-09-11 16:54:20 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Springfield","local_names":{"ta":"ஸ்பிரிங்ஃபீல்ட்","uk":"Спрингфілд","en":"Springfield","lt":"Springfildas","pl":"Springfield","ru":"Спрингфилд"},"lat":39.7990175,"lon":-89.6439575,"country":"US","state":"Illinois"}]
+2024-09-11 16:54:20 INFO  api.StepDefination.GeoStepDefination - Received location details for the first match of Springfield: Latitude - 39.79902, Longitude - -89.64396
+2024-09-11 16:54:20 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:54:20 INFO  api.StepDefination.GeoStepDefination - City name specified: Greenville
+2024-09-11 16:54:20 INFO  api.StepDefination.GeoStepDefination - Making request for location: Greenville
+2024-09-11 16:54:20 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Greenville","local_names":{"ru":"Гринвилл","en":"Greenville"},"lat":34.851354,"lon":-82.3984882,"country":"US","state":"South Carolina"}]
+2024-09-11 16:54:20 INFO  api.StepDefination.GeoStepDefination - Received location details for the first match of Greenville: Latitude - 34.851353, Longitude - -82.39849
+2024-09-11 16:54:20 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-11 16:54:20 INFO  api.StepDefination.GeoStepDefination - City name specified: Jackson
+2024-09-11 16:54:20 INFO  api.StepDefination.GeoStepDefination - Making request for location: Jackson
+2024-09-11 16:54:20 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Jackson","local_names":{"en":"Jackson","pl":"Jackson","ru":"Джэксон","ta":"ஜாக்சன்","uk":"Джексон"},"lat":32.3086744,"lon":-90.1983063,"country":"US","state":"Mississippi"}]
+2024-09-11 16:54:20 INFO  api.StepDefination.GeoStepDefination - Received location details for the first match of Jackson: Latitude - 32.308674, Longitude - -90.1983
+2024-09-12 11:42:34 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:42:34 INFO  api.StepDefination.GeoStepDefination - City name specified: Los Angeles
+2024-09-12 11:42:34 INFO  api.StepDefination.GeoStepDefination - Making request for location: Los Angeles
+2024-09-12 11:42:34 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:42:34 INFO  api.StepDefination.GeoStepDefination - City name specified: San Francisco
+2024-09-12 11:42:34 INFO  api.StepDefination.GeoStepDefination - Making request for location: San Francisco
+2024-09-12 11:42:34 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:42:34 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 10001
+2024-09-12 11:42:34 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:42:34 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 90001
+2024-09-12 11:42:34 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:42:34 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 94105
+2024-09-12 11:42:34 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:42:34 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Atlantis
+2024-09-12 11:42:34 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:42:34 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Neverland
+2024-09-12 11:42:34 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:42:34 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Narnia
+2024-09-12 11:42:34 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:42:34 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 999999
+2024-09-12 11:42:34 INFO  api.StepDefination.GeoStepDefination - Making request for location: 999999
+2024-09-12 11:42:34 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:42:34 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 000000
+2024-09-12 11:42:34 INFO  api.StepDefination.GeoStepDefination - Making request for location: 000000
+2024-09-12 11:42:34 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:42:34 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 888888
+2024-09-12 11:42:34 INFO  api.StepDefination.GeoStepDefination - Making request for location: 888888
+2024-09-12 11:42:34 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:42:34 INFO  api.StepDefination.GeoStepDefination - City name specified: San José
+2024-09-12 11:42:34 INFO  api.StepDefination.GeoStepDefination - Making request for location: San José
+2024-09-12 11:42:34 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:42:35 INFO  api.StepDefination.GeoStepDefination - City name specified: São Paulo
+2024-09-12 11:42:35 INFO  api.StepDefination.GeoStepDefination - Making request for location: São Paulo
+2024-09-12 11:42:35 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:42:35 INFO  api.StepDefination.GeoStepDefination - City name specified: Montréal
+2024-09-12 11:42:35 INFO  api.StepDefination.GeoStepDefination - Making request for location: Montréal
+2024-09-12 11:42:35 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:42:35 INFO  api.StepDefination.GeoStepDefination - City name specified: Springfield
+2024-09-12 11:42:35 INFO  api.StepDefination.GeoStepDefination - Making request for location: Springfield
+2024-09-12 11:42:35 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:42:35 INFO  api.StepDefination.GeoStepDefination - City name specified: Greenville
+2024-09-12 11:42:35 INFO  api.StepDefination.GeoStepDefination - Making request for location: Greenville
+2024-09-12 11:42:35 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:42:35 INFO  api.StepDefination.GeoStepDefination - City name specified: Jackson
+2024-09-12 11:42:35 INFO  api.StepDefination.GeoStepDefination - Making request for location: Jackson
+2024-09-12 11:48:15 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:48:15 INFO  api.StepDefination.GeoStepDefination - City name specified: New York
+2024-09-12 11:48:15 INFO  api.StepDefination.GeoStepDefination - Making request for location: New York
+2024-09-12 11:48:16 INFO  api.StepDefination.GeoStepDefination - API Response: {"cod":401, "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."}
+2024-09-12 11:48:16 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:48:16 INFO  api.StepDefination.GeoStepDefination - City name specified: Los Angeles
+2024-09-12 11:48:16 INFO  api.StepDefination.GeoStepDefination - Making request for location: Los Angeles
+2024-09-12 11:48:17 INFO  api.StepDefination.GeoStepDefination - API Response: {"cod":401, "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."}
+2024-09-12 11:48:17 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:48:17 INFO  api.StepDefination.GeoStepDefination - City name specified: San Francisco
+2024-09-12 11:48:17 INFO  api.StepDefination.GeoStepDefination - Making request for location: San Francisco
+2024-09-12 11:48:17 INFO  api.StepDefination.GeoStepDefination - API Response: {"cod":401, "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."}
+2024-09-12 11:48:17 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:48:17 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 10001
+2024-09-12 11:48:17 INFO  api.StepDefination.GeoStepDefination - API response for postal code 10001: {"zip":"10001","name":"New York","lat":40.7484,"lon":-73.9967,"country":"US"}
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 10001: Latitude - 40.7484, Longitude - -73.9967
+2024-09-12 11:48:18 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 90001
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - API response for postal code 90001: {"zip":"90001","name":"Los Angeles County","lat":33.9731,"lon":-118.2479,"country":"US"}
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 90001: Latitude - 33.9731, Longitude - -118.2479
+2024-09-12 11:48:18 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 94105
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - API response for postal code 94105: {"zip":"94105","name":"San Francisco","lat":37.7864,"lon":-122.3892,"country":"US"}
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 94105: Latitude - 37.7864, Longitude - -122.3892
+2024-09-12 11:48:18 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Atlantis
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - API response for postal code Atlantis: {"cod":"404","message":"not found"}
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - No location found for: Atlantis
+2024-09-12 11:48:18 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Neverland
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - API response for postal code Neverland: {"cod":"404","message":"not found"}
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - No location found for: Neverland
+2024-09-12 11:48:18 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Narnia
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - API response for postal code Narnia: {"cod":"404","message":"not found"}
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - No location found for: Narnia
+2024-09-12 11:48:18 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 999999
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - Making request for location: 999999
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - API Response: {"cod":401, "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."}
+2024-09-12 11:48:18 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 000000
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - Making request for location: 000000
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - API Response: {"cod":401, "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."}
+2024-09-12 11:48:18 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 888888
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - Making request for location: 888888
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - API Response: {"cod":401, "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."}
+2024-09-12 11:48:18 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - City name specified: San José
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - Making request for location: San José
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - API Response: {"cod":401, "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."}
+2024-09-12 11:48:18 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - City name specified: São Paulo
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - Making request for location: São Paulo
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - API Response: {"cod":401, "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."}
+2024-09-12 11:48:18 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - City name specified: Montréal
+2024-09-12 11:48:18 INFO  api.StepDefination.GeoStepDefination - Making request for location: Montréal
+2024-09-12 11:48:19 INFO  api.StepDefination.GeoStepDefination - API Response: {"cod":401, "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."}
+2024-09-12 11:48:19 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:48:19 INFO  api.StepDefination.GeoStepDefination - City name specified: Springfield
+2024-09-12 11:48:19 INFO  api.StepDefination.GeoStepDefination - Making request for location: Springfield
+2024-09-12 11:48:19 INFO  api.StepDefination.GeoStepDefination - API Response: {"cod":401, "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."}
+2024-09-12 11:48:19 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:48:19 INFO  api.StepDefination.GeoStepDefination - City name specified: Greenville
+2024-09-12 11:48:19 INFO  api.StepDefination.GeoStepDefination - Making request for location: Greenville
+2024-09-12 11:48:19 INFO  api.StepDefination.GeoStepDefination - API Response: {"cod":401, "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."}
+2024-09-12 11:48:19 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:48:19 INFO  api.StepDefination.GeoStepDefination - City name specified: Jackson
+2024-09-12 11:48:19 INFO  api.StepDefination.GeoStepDefination - Making request for location: Jackson
+2024-09-12 11:48:19 INFO  api.StepDefination.GeoStepDefination - API Response: {"cod":401, "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."}
+2024-09-12 11:48:52 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:48:52 INFO  api.StepDefination.GeoStepDefination - City name specified: New York
+2024-09-12 11:48:52 INFO  api.StepDefination.GeoStepDefination - Making request for location: New York
+2024-09-12 11:48:54 INFO  api.StepDefination.GeoStepDefination - API Response: {"cod":401, "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."}
+2024-09-12 11:48:54 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:48:54 INFO  api.StepDefination.GeoStepDefination - City name specified: Los Angeles
+2024-09-12 11:48:54 INFO  api.StepDefination.GeoStepDefination - Making request for location: Los Angeles
+2024-09-12 11:48:54 INFO  api.StepDefination.GeoStepDefination - API Response: {"cod":401, "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."}
+2024-09-12 11:48:54 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:48:54 INFO  api.StepDefination.GeoStepDefination - City name specified: San Francisco
+2024-09-12 11:48:54 INFO  api.StepDefination.GeoStepDefination - Making request for location: San Francisco
+2024-09-12 11:48:54 INFO  api.StepDefination.GeoStepDefination - API Response: {"cod":401, "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."}
+2024-09-12 11:52:05 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:52:05 INFO  api.StepDefination.GeoStepDefination - City name specified: New York
+2024-09-12 11:52:05 INFO  api.StepDefination.GeoStepDefination - Making request for location: New York
+2024-09-12 11:52:06 INFO  api.StepDefination.GeoStepDefination - API Response: {"cod":401, "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."}
+2024-09-12 11:52:06 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:52:06 INFO  api.StepDefination.GeoStepDefination - City name specified: Los Angeles
+2024-09-12 11:52:06 INFO  api.StepDefination.GeoStepDefination - Making request for location: Los Angeles
+2024-09-12 11:52:06 INFO  api.StepDefination.GeoStepDefination - API Response: {"cod":401, "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."}
+2024-09-12 11:52:06 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:52:06 INFO  api.StepDefination.GeoStepDefination - City name specified: San Francisco
+2024-09-12 11:52:06 INFO  api.StepDefination.GeoStepDefination - Making request for location: San Francisco
+2024-09-12 11:52:06 INFO  api.StepDefination.GeoStepDefination - API Response: {"cod":401, "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."}
+2024-09-12 11:53:25 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:53:25 INFO  api.StepDefination.GeoStepDefination - City name specified: New York
+2024-09-12 11:53:25 INFO  api.StepDefination.GeoStepDefination - Making request for location: New York
+2024-09-12 11:53:27 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"New York County","local_names":{"ar":"نيويورك","te":"న్యూయొర్క్","fr":"New York","fa":"نیویورک","it":"New York","he":"ניו יורק","zh":"纽约/紐約","hi":"न्यूयॊर्क्","en":"New York","uk":"Нью-Йорк","ca":"Nova York","is":"Nýja Jórvík","ru":"Нью-Йорк","eo":"Novjorko","pt":"Nova Iorque","cs":"New York","el":"Νέα Υόρκη","kn":"ನ್ಯೂಯೊರ್ಕ್","ko":"뉴욕","es":"Nueva York","de":"New York","ja":"ニューヨーク","oc":"Nòva York","gl":"Nova York","pl":"Nowy Jork","vi":"New York","cy":"Efrog Newydd","be":"Нью-Ёрк"},"lat":40.7127281,"lon":-74.0060152,"country":"US","state":"New York"}]
+2024-09-12 11:53:28 INFO  api.StepDefination.GeoStepDefination - Received location details for New York: Latitude - 40.712727, Longitude - -74.00601
+2024-09-12 11:53:28 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:53:28 INFO  api.StepDefination.GeoStepDefination - City name specified: Los Angeles
+2024-09-12 11:53:28 INFO  api.StepDefination.GeoStepDefination - Making request for location: Los Angeles
+2024-09-12 11:53:28 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Los Angeles","local_names":{"lv":"Losandželosa","ta":"லொஸ் ஆஞ்ஜெலெஸ்","en":"Los Angeles","he":"לוס אנג'לס","pl":"Los Angeles","tt":"Лос-Анджелес","zh":"洛杉矶","mi":"Ngā Ānahera","ja":"ロサンゼルス","es":"Los Ángeles","ko":"로스앤젤레스","ba":"Лос-Анджелес","hi":"लॉस एंजिलस","oc":"Los Angeles","ru":"Лос-Анджелес","bn":"লোস আংজেলেস","el":"Λος Άντζελες","fr":"Los Angeles","pt":"Los Angeles","eo":"Los-Anĝeleso","be":"Лос-Анджэлас","sr":"Лос Анђелес","gl":"Os Ánxeles","it":"Los Angeles","de":"Los Angeles","ar":"لوس أنجلس","ka":"ლოს-ანჯელესი","fa":"لوس آنجلس","kn":"ಲೊಸ್ ಆಂಜೆಲೆಸ್","uk":"Лос-Анджелес","th":"ลอสแอนเจลิส"},"lat":34.0536909,"lon":-118.242766,"country":"US","state":"California"}]
+2024-09-12 11:53:28 INFO  api.StepDefination.GeoStepDefination - Received location details for Los Angeles: Latitude - 34.05369, Longitude - -118.24277
+2024-09-12 11:53:28 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:53:28 INFO  api.StepDefination.GeoStepDefination - City name specified: San Francisco
+2024-09-12 11:53:28 INFO  api.StepDefination.GeoStepDefination - Making request for location: San Francisco
+2024-09-12 11:53:28 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"San Francisco","local_names":{"hy":"Սան Ֆրանցիսկո","ko":"샌프란시스코","nl":"San Francisco","si":"සැන් ෆ්‍රැන්සිස්කෝ","kk":"Сан-Франциско","lb":"San Francisco","la":"Franciscopolis","yi":"סאן פראנציסקא","am":"ሳን ፍራንሲስኰ","pt":"São Francisco","cs":"San Francisco","ar":"سان فرانسيسكو","ru":"Сан-Франциско","bg":"Сан Франциско","ca":"San Francisco","pl":"San Francisco","te":"శాన్ ఫ్రాన్సిస్కో","et":"San Francisco","ki":"San Francisco","ps":"سان فرانسسکو","cy":"San Francisco","ku":"San Francisco","cv":"Сан-Франциско","be":"Сан-Францыска","ie":"San Francisco","uk":"Сан-Франциско","nn":"San Francisco","gl":"San Francisco","tw":"San Francisco","sk":"San Francisco","sr":"Сан Франциско","ja":"サンフランシスコ","io":"San Francisco","co":"San Francisco","da":"San Francisco","el":"Σαν Φρανσίσκο","ta":"சான் பிரான்சிஸ்கோ","it":"San Francisco","mg":"San Francisco","bo":"སན་ཧྥུ་རན་སིས་ཁོ","az":"San-Fransisko","my":"ဆန်ဖရန်စစ္စကိုမြို့","eu":"San Frantzisko","lv":"Sanfrancisko","bn":"সান ফ্রান্সিস্কো","tl":"San Francisco","ky":"Сан-Франциско","ml":"സാൻ ഫ്രാൻസിസ്കോ","so":"San Fransisko","vi":"Cựu Kim Sơn","ia":"San Francisco","tr":"San Francisco","an":"San Francisco","bm":"San Francisco","fy":"San Francisco","fi":"San Francisco","he":"סן פרנסיסקו","sc":"San Francisco","tt":"Сан-Франциско","sh":"San Francisco","bs":"San Francisco","ty":"San Francisco","pa":"ਸਾਨ ਫ਼ਰਾਂਸਿਸਕੋ","jv":"San Francisco","oc":"San Francisco","ga":"San Francisco","no":"San Francisco","yo":"San Francisco","hr":"San Francisco","hi":"सैन फ़्रांसिस्को","ug":"San Fransisko","is":"San Francisco","de":"San Francisco","fo":"San Francisco","ht":"San Francisco","sw":"San Francisco","ha":"San Francisco","fr":"San Francisco","li":"San Francisco","kw":"San Francisco","ce":"Сан-Франциско","sv":"San Francisco","hu":"San Francisco","sq":"San Francisco","zh":"旧金山;舊金山;三藩市","qu":"San Francisco","ka":"სან-ფრანცისკო","lt":"San Fransiskas","mk":"Сан Франциско","uz":"San Fransisko","na":"San Francisco","nv":"Naʼníʼá Hóneezí","ms":"San Francisco","mr":"सॅन फ्रान्सिस्को","ln":"San Francisco","sl":"San Francisco","br":"San Francisco","mi":"Hana Paraniko","id":"San Francisco","ro":"San Francisco","ba":"Сан-Франциско","en":"San Francisco","ne":"सान फ्रान्सिस्को","os":"Сан-Франциско","gd":"San Francisco","fa":"سان فرانسیسکو","fj":"San Francisco","es":"San Francisco","mn":"Сан-Франциско","eo":"San-Francisko","kn":"ಸಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೊ","ur":"سان فرانسسکو","th":"ซานฟรานซิสโก","af":"San Francisco","gv":"San Francisco","vo":"San Francisco"},"lat":37.7790262,"lon":-122.419906,"country":"US","state":"California"}]
+2024-09-12 11:53:29 INFO  api.StepDefination.GeoStepDefination - Received location details for San Francisco: Latitude - 37.779026, Longitude - -122.41991
+2024-09-12 11:57:18 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:57:18 INFO  api.StepDefination.GeoStepDefination - City name specified: New York
+2024-09-12 11:57:18 INFO  api.StepDefination.GeoStepDefination - Making request for location: New York
+2024-09-12 11:57:20 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"New York County","local_names":{"ar":"نيويورك","te":"న్యూయొర్క్","fr":"New York","fa":"نیویورک","it":"New York","he":"ניו יורק","zh":"纽约/紐約","hi":"न्यूयॊर्क्","en":"New York","uk":"Нью-Йорк","ca":"Nova York","is":"Nýja Jórvík","ru":"Нью-Йорк","eo":"Novjorko","pt":"Nova Iorque","cs":"New York","el":"Νέα Υόρκη","kn":"ನ್ಯೂಯೊರ್ಕ್","ko":"뉴욕","es":"Nueva York","de":"New York","ja":"ニューヨーク","oc":"Nòva York","gl":"Nova York","pl":"Nowy Jork","vi":"New York","cy":"Efrog Newydd","be":"Нью-Ёрк"},"lat":40.7127281,"lon":-74.0060152,"country":"US","state":"New York"}]
+2024-09-12 11:57:21 INFO  api.StepDefination.GeoStepDefination - Received location details for New York: Latitude - 40.712727, Longitude - -74.00601
+2024-09-12 11:57:21 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:57:21 INFO  api.StepDefination.GeoStepDefination - City name specified: Los Angeles
+2024-09-12 11:57:21 INFO  api.StepDefination.GeoStepDefination - Making request for location: Los Angeles
+2024-09-12 11:57:21 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Los Angeles","local_names":{"lv":"Losandželosa","ta":"லொஸ் ஆஞ்ஜெலெஸ்","en":"Los Angeles","he":"לוס אנג'לס","pl":"Los Angeles","tt":"Лос-Анджелес","zh":"洛杉矶","mi":"Ngā Ānahera","ja":"ロサンゼルス","es":"Los Ángeles","ko":"로스앤젤레스","ba":"Лос-Анджелес","hi":"लॉस एंजिलस","oc":"Los Angeles","ru":"Лос-Анджелес","bn":"লোস আংজেলেস","el":"Λος Άντζελες","fr":"Los Angeles","pt":"Los Angeles","eo":"Los-Anĝeleso","be":"Лос-Анджэлас","sr":"Лос Анђелес","gl":"Os Ánxeles","it":"Los Angeles","de":"Los Angeles","ar":"لوس أنجلس","ka":"ლოს-ანჯელესი","fa":"لوس آنجلس","kn":"ಲೊಸ್ ಆಂಜೆಲೆಸ್","uk":"Лос-Анджелес","th":"ลอสแอนเจลิส"},"lat":34.0536909,"lon":-118.242766,"country":"US","state":"California"}]
+2024-09-12 11:57:21 INFO  api.StepDefination.GeoStepDefination - Received location details for Los Angeles: Latitude - 34.05369, Longitude - -118.24277
+2024-09-12 11:57:21 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:57:21 INFO  api.StepDefination.GeoStepDefination - City name specified: San Francisco
+2024-09-12 11:57:21 INFO  api.StepDefination.GeoStepDefination - Making request for location: San Francisco
+2024-09-12 11:57:21 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"San Francisco","local_names":{"hy":"Սան Ֆրանցիսկո","ko":"샌프란시스코","nl":"San Francisco","si":"සැන් ෆ්‍රැන්සිස්කෝ","kk":"Сан-Франциско","lb":"San Francisco","la":"Franciscopolis","yi":"סאן פראנציסקא","am":"ሳን ፍራንሲስኰ","pt":"São Francisco","cs":"San Francisco","ar":"سان فرانسيسكو","ru":"Сан-Франциско","bg":"Сан Франциско","ca":"San Francisco","pl":"San Francisco","te":"శాన్ ఫ్రాన్సిస్కో","et":"San Francisco","ki":"San Francisco","ps":"سان فرانسسکو","cy":"San Francisco","ku":"San Francisco","cv":"Сан-Франциско","be":"Сан-Францыска","ie":"San Francisco","uk":"Сан-Франциско","nn":"San Francisco","gl":"San Francisco","tw":"San Francisco","sk":"San Francisco","sr":"Сан Франциско","ja":"サンフランシスコ","io":"San Francisco","co":"San Francisco","da":"San Francisco","el":"Σαν Φρανσίσκο","ta":"சான் பிரான்சிஸ்கோ","it":"San Francisco","mg":"San Francisco","bo":"སན་ཧྥུ་རན་སིས་ཁོ","az":"San-Fransisko","my":"ဆန်ဖရန်စစ္စကိုမြို့","eu":"San Frantzisko","lv":"Sanfrancisko","bn":"সান ফ্রান্সিস্কো","tl":"San Francisco","ky":"Сан-Франциско","ml":"സാൻ ഫ്രാൻസിസ്കോ","so":"San Fransisko","vi":"Cựu Kim Sơn","ia":"San Francisco","tr":"San Francisco","an":"San Francisco","bm":"San Francisco","fy":"San Francisco","fi":"San Francisco","he":"סן פרנסיסקו","sc":"San Francisco","tt":"Сан-Франциско","sh":"San Francisco","bs":"San Francisco","ty":"San Francisco","pa":"ਸਾਨ ਫ਼ਰਾਂਸਿਸਕੋ","jv":"San Francisco","oc":"San Francisco","ga":"San Francisco","no":"San Francisco","yo":"San Francisco","hr":"San Francisco","hi":"सैन फ़्रांसिस्को","ug":"San Fransisko","is":"San Francisco","de":"San Francisco","fo":"San Francisco","ht":"San Francisco","sw":"San Francisco","ha":"San Francisco","fr":"San Francisco","li":"San Francisco","kw":"San Francisco","ce":"Сан-Франциско","sv":"San Francisco","hu":"San Francisco","sq":"San Francisco","zh":"旧金山;舊金山;三藩市","qu":"San Francisco","ka":"სან-ფრანცისკო","lt":"San Fransiskas","mk":"Сан Франциско","uz":"San Fransisko","na":"San Francisco","nv":"Naʼníʼá Hóneezí","ms":"San Francisco","mr":"सॅन फ्रान्सिस्को","ln":"San Francisco","sl":"San Francisco","br":"San Francisco","mi":"Hana Paraniko","id":"San Francisco","ro":"San Francisco","ba":"Сан-Франциско","en":"San Francisco","ne":"सान फ्रान्सिस्को","os":"Сан-Франциско","gd":"San Francisco","fa":"سان فرانسیسکو","fj":"San Francisco","es":"San Francisco","mn":"Сан-Франциско","eo":"San-Francisko","kn":"ಸಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೊ","ur":"سان فرانسسکو","th":"ซานฟรานซิสโก","af":"San Francisco","gv":"San Francisco","vo":"San Francisco"},"lat":37.7790262,"lon":-122.419906,"country":"US","state":"California"}]
+2024-09-12 11:57:21 INFO  api.StepDefination.GeoStepDefination - Received location details for San Francisco: Latitude - 37.779026, Longitude - -122.41991
+2024-09-12 11:57:21 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:57:21 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 10001
+2024-09-12 11:57:21 INFO  api.StepDefination.GeoStepDefination - API response for postal code 10001: {"zip":"10001","name":"New York","lat":40.7484,"lon":-73.9967,"country":"US"}
+2024-09-12 11:57:21 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 10001: Latitude - 40.7484, Longitude - -73.9967
+2024-09-12 11:57:21 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:57:21 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 90001
+2024-09-12 11:57:21 INFO  api.StepDefination.GeoStepDefination - API response for postal code 90001: {"zip":"90001","name":"Los Angeles County","lat":33.9731,"lon":-118.2479,"country":"US"}
+2024-09-12 11:57:21 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 90001: Latitude - 33.9731, Longitude - -118.2479
+2024-09-12 11:57:21 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:57:21 INFO  api.StepDefination.GeoStepDefination - Postal code specified: 94105
+2024-09-12 11:57:21 INFO  api.StepDefination.GeoStepDefination - API response for postal code 94105: {"zip":"94105","name":"San Francisco","lat":37.7864,"lon":-122.3892,"country":"US"}
+2024-09-12 11:57:21 INFO  api.StepDefination.GeoStepDefination - Received location details for postal code 94105: Latitude - 37.7864, Longitude - -122.3892
+2024-09-12 11:57:21 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:57:21 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Atlantis
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - API response for postal code Atlantis: {"cod":"404","message":"not found"}
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - No location found for: Atlantis
+2024-09-12 11:57:22 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Neverland
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - API response for postal code Neverland: {"cod":"404","message":"not found"}
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - No location found for: Neverland
+2024-09-12 11:57:22 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - Invalid city name specified: Narnia
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - API response for postal code Narnia: {"cod":"404","message":"not found"}
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - No location found for: Narnia
+2024-09-12 11:57:22 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 999999
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - Making request for location: 999999
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-12 11:57:22 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 000000
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - Making request for location: 000000
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-12 11:57:22 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - Invalid postal code specified: 888888
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - Making request for location: 888888
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-12 11:57:22 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - City name specified: San José
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - Making request for location: San José
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"San Jose","local_names":{"uk":"Сан-Хосе","am":"ሳን ሆዜ","en":"San Jose","eo":"San-Joseo","gl":"San Xosé","vi":"San Jose","es":"San José","ar":"سان خوسيه","ru":"Сан-Хосе","pt":"San José","zh":"聖荷西","oc":"San José"},"lat":37.3361663,"lon":-121.890591,"country":"US","state":"California"}]
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - Received location details for San José: Latitude - 37.336166, Longitude - -121.890594
+2024-09-12 11:57:22 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - City name specified: São Paulo
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - Making request for location: São Paulo
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - API Response: []
+2024-09-12 11:57:22 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - City name specified: Montréal
+2024-09-12 11:57:22 INFO  api.StepDefination.GeoStepDefination - Making request for location: Montréal
+2024-09-12 11:57:23 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Montreal","lat":37.9689254,"lon":-92.5921247,"country":"US","state":"Missouri"}]
+2024-09-12 11:57:23 INFO  api.StepDefination.GeoStepDefination - Received location details for Montréal: Latitude - 37.968925, Longitude - -92.592125
+2024-09-12 11:57:23 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:57:23 INFO  api.StepDefination.GeoStepDefination - City name specified: Springfield
+2024-09-12 11:57:23 INFO  api.StepDefination.GeoStepDefination - Making request for location: Springfield
+2024-09-12 11:57:23 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Springfield","local_names":{"ta":"ஸ்பிரிங்ஃபீல்ட்","uk":"Спрингфілд","en":"Springfield","lt":"Springfildas","pl":"Springfield","ru":"Спрингфилд"},"lat":39.7990175,"lon":-89.6439575,"country":"US","state":"Illinois"}]
+2024-09-12 11:57:23 INFO  api.StepDefination.GeoStepDefination - Received location details for the first match of Springfield: Latitude - 39.79902, Longitude - -89.64396
+2024-09-12 11:57:23 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:57:23 INFO  api.StepDefination.GeoStepDefination - City name specified: Greenville
+2024-09-12 11:57:23 INFO  api.StepDefination.GeoStepDefination - Making request for location: Greenville
+2024-09-12 11:57:23 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Greenville","local_names":{"ru":"Гринвилл","en":"Greenville"},"lat":34.851354,"lon":-82.3984882,"country":"US","state":"South Carolina"}]
+2024-09-12 11:57:23 INFO  api.StepDefination.GeoStepDefination - Received location details for the first match of Greenville: Latitude - 34.851353, Longitude - -82.39849
+2024-09-12 11:57:23 INFO  api.StepDefination.Hooks - ExtentReports and Log4j initialized.
+2024-09-12 11:57:23 INFO  api.StepDefination.GeoStepDefination - City name specified: Jackson
+2024-09-12 11:57:23 INFO  api.StepDefination.GeoStepDefination - Making request for location: Jackson
+2024-09-12 11:57:23 INFO  api.StepDefination.GeoStepDefination - API Response: [{"name":"Jackson","local_names":{"en":"Jackson","pl":"Jackson","ru":"Джэксон","ta":"ஜாக்சன்","uk":"Джексон"},"lat":32.3086744,"lon":-90.1983063,"country":"US","state":"Mississippi"}]
+2024-09-12 11:57:23 INFO  api.StepDefination.GeoStepDefination - Received location details for the first match of Jackson: Latitude - 32.308674, Longitude - -90.1983
